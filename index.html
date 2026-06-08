@@ -217,7 +217,7 @@
   <!-- SCORING RULES -->
   <section class="section">
     <h2>How Scoring Works</h2>
-    <p class="hint">New rules for 2026 — it's not winner-takes-all any more. Every match your teams play earns points, and there are bonuses up for grabs at the end.</p>
+    <p class="hint">New rules for 2026 — it's not winner-takes-all any more. Every match your teams play earns points, and there are bonuses up for grabs at the end. <strong>Ties:</strong> broken by most match wins; if still level, the tied players split their combined prize money.</p>
     <div class="scoring">
       <div class="sc">
         <h4>During the Tournament <span class="sub2">· per team, every match</span></h4>
@@ -438,8 +438,9 @@ function computeStandings(){
     const matchPts = teamPts.reduce((s,x)=>s+x.pts,0);
     const bonuses = BONUSES.filter(b=>AWARDS[b.key] && owner[AWARDS[b.key]]===i).map(b=>({...b,team:AWARDS[b.key]}));
     const bonusPts = bonuses.reduce((s,b)=>s+b.pts,0);
-    return {p,i,teamPts,matchPts,bonuses,bonusPts,total:matchPts+bonusPts};
-  }).sort((a,b)=> b.total-a.total || b.matchPts-a.matchPts || a.p.name.localeCompare(b.p.name));
+    const wins = p.teams.reduce((a,t)=>a+((RESULTS[t]&&RESULTS[t].w)||0),0);
+    return {p,i,teamPts,matchPts,bonuses,bonusPts,wins,total:matchPts+bonusPts};
+  }).sort((a,b)=> b.total-a.total || b.wins-a.wins || b.matchPts-a.matchPts || a.p.name.localeCompare(b.p.name));
 }
 
 function render(){
@@ -474,10 +475,19 @@ function render(){
 
   // Points table
   const tb = document.getElementById('standingsBody');
+  // Prizes with ties (tie = equal total AND equal wins): split the combined prize pool
+  const MEDALS=['🥇','🥈','🥉']; const prizeByIdx={}, medalByIdx={};
+  { const groups=[];
+    standings.forEach((s,i)=>{ const pr=groups[groups.length-1];
+      if(pr && pr.total===s.total && pr.wins===s.wins) pr.members.push(i);
+      else groups.push({total:s.total,wins:s.wins,start:i,members:[i]}); });
+    groups.forEach(g=>{ if(g.total<=0) return; let pool=0; g.members.forEach(idx=>{ if(idx<3) pool+=PRIZES[idx]; });
+      const each = pool? pool/g.members.length : 0;
+      g.members.forEach(idx=>{ if(each>0) prizeByIdx[idx]=each; if(g.start<3) medalByIdx[idx]=MEDALS[g.start]; }); }); }
   tb.innerHTML = standings.map((s,idx)=>{
-    const lead = (idx===0 && s.total>0) ? 'lead':'';
-    const medal = (s.total>0 && idx<3) ? ['🥇','🥈','🥉'][idx] : '';
-    const prize = (s.total>0 && idx<3) ? PRIZES[idx] : 0;
+    const medal = medalByIdx[idx]||'';
+    const prize = prizeByIdx[idx]||0;
+    const lead = medal==='🥇' ? 'lead':'';
     const chips = s.teamPts.map(x=>`<span class="tchip ${x.out?'out':''}">${FLAG[x.t]||'🏳️'} ${x.t} <b>${x.pts}</b></span>`).join('');
     const badges = s.bonuses.map(b=>`<span class="bbadge">${b.label} +${b.pts}</span>`).join('');
     return `<div class="prow ${lead}" style="--pc:${s.p.color}">
@@ -489,7 +499,7 @@ function render(){
       </div>
       <div class="pscore">
         <div class="ptot">${s.total}</div>
-        <div class="pbd">${s.matchPts} match · ${s.bonusPts} bonus</div>${prize?`<div class="prize">€${prize}</div>`:''}
+        <div class="pbd">${s.matchPts} match · ${s.bonusPts} bonus</div>${prize?`<div class="prize">€${prize%1?prize.toFixed(2):prize}</div>`:''}
       </div>
     </div>`;
   }).join('');

@@ -115,6 +115,8 @@
   .pscore{flex:0 0 auto;text-align:right;min-width:58px}
   .ptot{font-size:24px;font-weight:800;color:var(--gold);line-height:1}
   .pbd{font-size:10.5px;color:var(--muted);margin-top:4px;white-space:nowrap}
+  .prize{margin-top:5px;font-size:12px;font-weight:800;color:#1a1400;background:var(--gold);border-radius:20px;padding:2px 9px;display:inline-block}
+  .prizes-line{margin-top:10px;font-size:14px;font-weight:800;color:#fff;letter-spacing:.02em}
   .tp{margin-left:auto;color:var(--green);font-weight:700;font-size:12px}
   /* Scoring rules */
   .scoring{display:grid;grid-template-columns:1fr 1fr;gap:14px}
@@ -170,9 +172,9 @@
   <header class="hero">
     <div class="kicker">FIFA World Cup 2026 · USA · Canada · Mexico</div>
     <h1><span class="gr" style="display:block;font-size:1.45em;letter-spacing:.06em;line-height:1.02">C.G.C</span>World Cup 2026 Sweepstake</h1>
-    <p class="sub">9 family members, €20 each, a <strong>seeded draw</strong> of the World Cup field — one team from each strength pot, so every hand is balanced. Points stack up all tournament; most points when the dust settles takes the €180.</p>
+    <p class="sub">9 family members, €20 each, a <strong>seeded draw</strong> of the World Cup field — one team from each strength pot, so every hand is balanced. Points stack up all tournament; the top three split the €180 pot — €120 / €40 / €20.</p>
     <div class="pot-hero">
-      <div class="num">€180</div><div class="lbl">The Pot</div>
+      <div class="num">€180</div><div class="lbl">The Pot</div><div class="prizes-line">🥇 €120&nbsp;&nbsp;·&nbsp;&nbsp;🥈 €40&nbsp;&nbsp;·&nbsp;&nbsp;🥉 €20</div>
     </div>
     <div class="pot">
       <div class="card"><div class="num">9</div><div class="lbl">Degenerate Relatives</div></div>
@@ -292,7 +294,7 @@
     </div>
   </section>
 
-  <footer>Family WC2026 sweepstake · €180 pot · seeded draw · most points takes all · tap a player for their odds</footer>
+  <footer>Family WC2026 sweepstake · €180 pot · seeded draw · top 3 paid €120/€40/€20 · tap a player for their odds</footer>
 </div>
 
 <div class="modal" id="modal" aria-hidden="true">
@@ -428,6 +430,7 @@ const BONUSES = [
   {key:'mostYellowCards',   pts:5,  label:'🟨 Most Yellow Cards'},
   {key:'mostGoalsConceded', pts:5,  label:'🥅 Most Goals Conceded'},
 ];
+const PRIZES=[120,40,20]; // 1st, 2nd, 3rd
 function matchPtsTeam(t){ const r=RESULTS[t]; return r ? (r.w||0)*3 + (r.d||0)*1 : 0; }
 function computeStandings(){
   return PLAYERS.map((p,i)=>{
@@ -473,18 +476,20 @@ function render(){
   const tb = document.getElementById('standingsBody');
   tb.innerHTML = standings.map((s,idx)=>{
     const lead = (idx===0 && s.total>0) ? 'lead':'';
+    const medal = (s.total>0 && idx<3) ? ['🥇','🥈','🥉'][idx] : '';
+    const prize = (s.total>0 && idx<3) ? PRIZES[idx] : 0;
     const chips = s.teamPts.map(x=>`<span class="tchip ${x.out?'out':''}">${FLAG[x.t]||'🏳️'} ${x.t} <b>${x.pts}</b></span>`).join('');
     const badges = s.bonuses.map(b=>`<span class="bbadge">${b.label} +${b.pts}</span>`).join('');
     return `<div class="prow ${lead}" style="--pc:${s.p.color}">
       <div class="prank">${idx+1}</div>
       <div class="pmain">
-        <div class="pname"><span class="dot"></span><strong>${s.p.name}</strong>${lead?' <span class="crown">👑</span>':''}</div>
+        <div class="pname"><span class="dot"></span><strong>${s.p.name}</strong>${medal?` <span class="crown">${medal}</span>`:''}</div>
         <div class="r-chips">${chips}</div>
         ${badges?`<div class="r-badges">${badges}</div>`:''}
       </div>
       <div class="pscore">
         <div class="ptot">${s.total}</div>
-        <div class="pbd">${s.matchPts} match · ${s.bonusPts} bonus</div>
+        <div class="pbd">${s.matchPts} match · ${s.bonusPts} bonus</div>${prize?`<div class="prize">€${prize}</div>`:''}
       </div>
     </div>`;
   }).join('');
@@ -496,7 +501,7 @@ function render(){
   if(top && top.total>0){
     document.getElementById('bannerT').textContent = finished ? '🏆 Winner' : '📊 Current Leader';
     document.getElementById('winnerName').innerHTML = `${top.p.name} — ${top.total} pts`;
-    document.getElementById('bannerSub').innerHTML = finished ? 'takes the <strong>€180</strong> pot' : 'out in front for the <strong>€180</strong> pot';
+    document.getElementById('bannerSub').innerHTML = finished ? 'takes the <strong>€120</strong> top prize' : 'leading for the <strong>€120</strong> top prize';
     banner.classList.add('show');
   } else banner.classList.remove('show');
 }

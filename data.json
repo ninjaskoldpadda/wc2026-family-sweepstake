@@ -1,11 +1,11 @@
 {
-  "LAST_SYNC": "Sat 13 June, 18:14 UTC",
+  "LAST_SYNC": "Sat 13 June, 23:15 UTC",
   "STAGE": "Group stage — Matchday 1",
   "ELIMINATED": [],
   "NEXT_MATCH": {
-    "label": "Qatar 🇶🇦 vs 🇨🇭 Switzerland",
-    "note": "Group B · San Francisco Bay Area Stadium",
-    "kickoff": "2026-06-13T19:00:00Z"
+    "label": "Haiti 🇭🇹 vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland",
+    "note": "Group C · Gillette Stadium, Foxborough",
+    "kickoff": "2026-06-14T01:00:00Z"
   },
   "BRACKET": {
     "Round of 32": [],
@@ -55,6 +55,26 @@
       "w": 0,
       "d": 0,
       "l": 1
+    },
+    "Qatar": {
+      "w": 0,
+      "d": 1,
+      "l": 0
+    },
+    "Switzerland": {
+      "w": 0,
+      "d": 1,
+      "l": 0
+    },
+    "Brazil": {
+      "w": 0,
+      "d": 1,
+      "l": 0
+    },
+    "Morocco": {
+      "w": 0,
+      "d": 1,
+      "l": 0
     }
   },
   "AWARDS": {
@@ -68,6 +88,20 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    {
+      "a": "Brazil",
+      "sa": 1,
+      "b": "Morocco",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Qatar",
+      "sa": 1,
+      "b": "Switzerland",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
     {
       "a": "USA",
       "sa": 4,

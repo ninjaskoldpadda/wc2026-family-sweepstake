@@ -1,11 +1,11 @@
 {
-  "LAST_SYNC": "Sun 14 June, 18:15 UTC",
+  "LAST_SYNC": "Sun 14 June, 23:15 UTC",
   "STAGE": "Group stage — Matchday 1",
   "ELIMINATED": [],
   "NEXT_MATCH": {
-    "label": "Netherlands 🇳🇱 vs 🇯🇵 Japan",
-    "note": "Group F · AT&T Stadium, Arlington",
-    "kickoff": "2026-06-14T20:00:00Z"
+    "label": "Ivory Coast 🇨🇮 vs 🇪🇨 Ecuador",
+    "note": "Group E · Philadelphia Stadium — kicking off now",
+    "kickoff": "2026-06-14T23:00:00Z"
   },
   "BRACKET": {
     "Round of 32": [],
@@ -95,6 +95,16 @@
       "w": 1,
       "d": 0,
       "l": 0
+    },
+    "Netherlands": {
+      "w": 0,
+      "d": 1,
+      "l": 0
+    },
+    "Japan": {
+      "w": 0,
+      "d": 1,
+      "l": 0
     }
   },
   "AWARDS": {
@@ -109,8 +119,15 @@
   },
   "MATCHES": [
     {
+      "a": "Netherlands",
+      "sa": 2,
+      "b": "Japan",
+      "sb": 2,
+      "note": "Matchday 1"
+    },
+    {
       "a": "Germany",
-      "sa": 4,
+      "sa": 7,
       "b": "Curaçao",
       "sb": 1,
       "note": "Matchday 1"

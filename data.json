@@ -1,11 +1,11 @@
 {
-  "LAST_SYNC": "Mon 15 June, 06:14 UTC",
+  "LAST_SYNC": "Mon 15 June, 18:14 UTC",
   "STAGE": "Group stage — Matchday 1",
   "ELIMINATED": [],
   "NEXT_MATCH": {
-    "label": "Spain 🇪🇸 vs 🇨🇻 Cape Verde",
-    "note": "Group H · kicks off Mon 15 June (12pm ET)",
-    "kickoff": "2026-06-15T16:00:00Z"
+    "label": "Belgium 🇧🇪 vs 🇪🇬 Egypt",
+    "note": "Group G · kicks off Mon 15 June (3pm ET)",
+    "kickoff": "2026-06-15T19:00:00Z"
   },
   "BRACKET": {
     "Round of 32": [],
@@ -125,6 +125,16 @@
       "w": 0,
       "d": 0,
       "l": 1
+    },
+    "Spain": {
+      "w": 0,
+      "d": 1,
+      "l": 0
+    },
+    "Cape Verde": {
+      "w": 0,
+      "d": 1,
+      "l": 0
     }
   },
   "AWARDS": {
@@ -138,6 +148,13 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    {
+      "a": "Spain",
+      "sa": 0,
+      "b": "Cape Verde",
+      "sb": 0,
+      "note": "Matchday 1"
+    },
     {
       "a": "Sweden",
       "sa": 5,

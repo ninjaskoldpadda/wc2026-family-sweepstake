@@ -1,11 +1,11 @@
 {
-  "LAST_SYNC": "Mon 15 June, 18:14 UTC",
+  "LAST_SYNC": "Mon 15 June, 23:15 UTC",
   "STAGE": "Group stage — Matchday 1",
   "ELIMINATED": [],
   "NEXT_MATCH": {
-    "label": "Belgium 🇧🇪 vs 🇪🇬 Egypt",
-    "note": "Group G · kicks off Mon 15 June (3pm ET)",
-    "kickoff": "2026-06-15T19:00:00Z"
+    "label": "France 🇫🇷 vs 🇸🇳 Senegal",
+    "note": "Group I · kicks off Tue 16 June (3pm ET)",
+    "kickoff": "2026-06-16T19:00:00Z"
   },
   "BRACKET": {
     "Round of 32": [],
@@ -135,6 +135,16 @@
       "w": 0,
       "d": 1,
       "l": 0
+    },
+    "Belgium": {
+      "w": 0,
+      "d": 1,
+      "l": 0
+    },
+    "Egypt": {
+      "w": 0,
+      "d": 1,
+      "l": 0
     }
   },
   "AWARDS": {
@@ -148,6 +158,13 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    {
+      "a": "Belgium",
+      "sa": 1,
+      "b": "Egypt",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
     {
       "a": "Spain",
       "sa": 0,

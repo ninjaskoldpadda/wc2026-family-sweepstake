@@ -1,5 +1,5 @@
 {
-  "LAST_SYNC": "Mon 15 June, 23:15 UTC",
+  "LAST_SYNC": "Tue 16 June, 06:16 UTC",
   "STAGE": "Group stage — Matchday 1",
   "ELIMINATED": [],
   "NEXT_MATCH": {
@@ -145,6 +145,21 @@
       "w": 0,
       "d": 1,
       "l": 0
+    },
+    "Iran": {
+      "w": 0,
+      "d": 1,
+      "l": 0
+    },
+    "Saudi Arabia": {
+      "w": 0,
+      "d": 1,
+      "l": 0
+    },
+    "Uruguay": {
+      "w": 0,
+      "d": 1,
+      "l": 0
     }
   },
   "AWARDS": {
@@ -158,6 +173,20 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    {
+      "a": "Iran",
+      "sa": 2,
+      "b": "New Zealand",
+      "sb": 2,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Saudi Arabia",
+      "sa": 1,
+      "b": "Uruguay",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
     {
       "a": "Belgium",
       "sa": 1,

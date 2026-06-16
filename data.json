@@ -1,11 +1,11 @@
 {
-  "LAST_SYNC": "Tue 16 June, 18:14 UTC",
+  "LAST_SYNC": "Tue 16 June, 23:15 UTC",
   "STAGE": "Group stage — Matchday 1",
   "ELIMINATED": [],
   "NEXT_MATCH": {
-    "label": "France 🇫🇷 vs 🇸🇳 Senegal",
-    "note": "Group I · kicks off Tue 16 June (3pm ET)",
-    "kickoff": "2026-06-16T19:00:00Z"
+    "label": "Argentina 🇦🇷 vs 🇩🇿 Algeria",
+    "note": "Group J · kicks off Wed 17 June 01:00 UTC (9pm ET Tue)",
+    "kickoff": "2026-06-17T01:00:00Z"
   },
   "BRACKET": {
     "Round of 32": [],
@@ -160,6 +160,16 @@
       "w": 0,
       "d": 1,
       "l": 0
+    },
+    "France": {
+      "w": 1,
+      "d": 0,
+      "l": 0
+    },
+    "Senegal": {
+      "w": 0,
+      "d": 0,
+      "l": 1
     }
   },
   "AWARDS": {
@@ -173,6 +183,13 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    {
+      "a": "France",
+      "sa": 3,
+      "b": "Senegal",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
     {
       "a": "Iran",
       "sa": 2,

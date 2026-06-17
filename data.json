@@ -1,11 +1,11 @@
 {
-  "LAST_SYNC": "Tue 16 June, 23:15 UTC",
+  "LAST_SYNC": "Wed 17 June, 06:13 UTC",
   "STAGE": "Group stage — Matchday 1",
   "ELIMINATED": [],
   "NEXT_MATCH": {
-    "label": "Argentina 🇦🇷 vs 🇩🇿 Algeria",
-    "note": "Group J · kicks off Wed 17 June 01:00 UTC (9pm ET Tue)",
-    "kickoff": "2026-06-17T01:00:00Z"
+    "label": "Portugal 🇵🇹 vs 🇨🇩 DR Congo",
+    "note": "Group K · kicks off Wed 17 June 17:00 UTC (1pm ET)",
+    "kickoff": "2026-06-17T17:00:00Z"
   },
   "BRACKET": {
     "Round of 32": [],
@@ -170,6 +170,36 @@
       "w": 0,
       "d": 0,
       "l": 1
+    },
+    "Norway": {
+      "w": 1,
+      "d": 0,
+      "l": 0
+    },
+    "Iraq": {
+      "w": 0,
+      "d": 0,
+      "l": 1
+    },
+    "Argentina": {
+      "w": 1,
+      "d": 0,
+      "l": 0
+    },
+    "Algeria": {
+      "w": 0,
+      "d": 0,
+      "l": 1
+    },
+    "Austria": {
+      "w": 1,
+      "d": 0,
+      "l": 0
+    },
+    "Jordan": {
+      "w": 0,
+      "d": 0,
+      "l": 1
     }
   },
   "AWARDS": {
@@ -183,6 +213,27 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    {
+      "a": "Austria",
+      "sa": 3,
+      "b": "Jordan",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Argentina",
+      "sa": 3,
+      "b": "Algeria",
+      "sb": 0,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Iraq",
+      "sa": 1,
+      "b": "Norway",
+      "sb": 4,
+      "note": "Matchday 1"
+    },
     {
       "a": "France",
       "sa": 3,

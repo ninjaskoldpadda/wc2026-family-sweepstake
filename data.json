@@ -1,11 +1,11 @@
 {
-  "LAST_SYNC": "Thu 18 June, 06:13 UTC",
+  "LAST_SYNC": "Thu 18 June, 18:15 UTC",
   "STAGE": "Group stage — Matchday 2",
   "ELIMINATED": [],
   "NEXT_MATCH": {
-    "label": "Czechia 🇨🇿 vs 🇿🇦 South Africa",
-    "note": "First Matchday 2 fixture (Group A). Kicks off Thu 18 June 16:00 UTC (noon ET) in Atlanta.",
-    "kickoff": "2026-06-18T16:00:00Z"
+    "label": "Switzerland 🇨🇭 vs 🇧🇦 Bosnia & Herzegovina",
+    "note": "Group B, Matchday 2. Both drew their openers. Kicks off Thu 18 June 19:00 UTC (3pm ET) at SoFi Stadium, LA.",
+    "kickoff": "2026-06-18T19:00:00Z"
   },
   "BRACKET": {
     "Round of 32": [],
@@ -23,7 +23,7 @@
     },
     "South Africa": {
       "w": 0,
-      "d": 0,
+      "d": 1,
       "l": 1
     },
     "South Korea": {
@@ -33,7 +33,7 @@
     },
     "Czechia": {
       "w": 0,
-      "d": 0,
+      "d": 1,
       "l": 1
     },
     "Canada": {
@@ -253,6 +253,13 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    {
+      "a": "Czechia",
+      "sa": 1,
+      "b": "South Africa",
+      "sb": 1,
+      "note": "Matchday 2"
+    },
     {
       "a": "Uzbekistan",
       "sa": 1,

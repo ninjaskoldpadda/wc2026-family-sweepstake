@@ -1,11 +1,11 @@
 {
-  "LAST_SYNC": "Fri 19 June, 18:15 UTC",
+  "LAST_SYNC": "Fri 19 June, 23:15 UTC",
   "STAGE": "Group stage — Matchday 2",
   "ELIMINATED": [],
   "NEXT_MATCH": {
-    "label": "USA 🇺🇸 vs 🇦🇺 Australia",
-    "note": "Group D, Matchday 2. USA beat Paraguay 4-1; Australia stunned Türkiye 2-0 in their openers. Kicks off Fri 19 June 19:00 UTC (3pm ET) at Lumen Field, Seattle.",
-    "kickoff": "2026-06-19T19:00:00Z"
+    "label": "Brazil 🇧🇷 vs 🇭🇹 Haiti",
+    "note": "Group C, Matchday 2. Brazil opened with a 1-1 draw vs Morocco; Haiti lost 0-1 to Scotland. Kicks off Sat 20 June 00:30 UTC (8:30pm ET Fri) in Philadelphia. Scotland vs Morocco is live now; Türkiye vs Paraguay follows at 03:00 UTC.",
+    "kickoff": "2026-06-20T00:30:00Z"
   },
   "BRACKET": {
     "Round of 32": [],
@@ -47,7 +47,7 @@
       "l": 1
     },
     "USA": {
-      "w": 1,
+      "w": 2,
       "d": 0,
       "l": 0
     },
@@ -84,7 +84,7 @@
     "Australia": {
       "w": 1,
       "d": 0,
-      "l": 0
+      "l": 1
     },
     "Turkey": {
       "w": 0,
@@ -222,14 +222,14 @@
       "l": 1
     },
     "Ghana": {
-      "w": 0,
-      "d": 1,
+      "w": 1,
+      "d": 0,
       "l": 0
     },
     "Panama": {
       "w": 0,
-      "d": 1,
-      "l": 0
+      "d": 0,
+      "l": 1
     },
     "Colombia": {
       "w": 1,
@@ -253,6 +253,13 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    {
+      "a": "USA",
+      "sa": 2,
+      "b": "Australia",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
     {
       "a": "Mexico",
       "sa": 1,
@@ -304,7 +311,7 @@
     },
     {
       "a": "Ghana",
-      "sa": 0,
+      "sa": 1,
       "b": "Panama",
       "sb": 0,
       "note": "Matchday 1"

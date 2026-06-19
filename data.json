@@ -255,14 +255,14 @@
   "MATCHES": [
     {
       "a": "Mexico",
-      "sa": 3,
+      "sa": 1,
       "b": "South Korea",
-      "sb": 2,
+      "sb": 0,
       "note": "Matchday 2"
     },
     {
       "a": "Canada",
-      "sa": 3,
+      "sa": 6,
       "b": "Qatar",
       "sb": 0,
       "note": "Matchday 2"

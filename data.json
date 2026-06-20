@@ -1,11 +1,11 @@
 {
-  "LAST_SYNC": "Sat 20 June, 06:15 UTC",
+  "LAST_SYNC": "Sat 20 June, 18:15 UTC",
   "STAGE": "Group stage — Matchday 2",
   "ELIMINATED": [],
   "NEXT_MATCH": {
-    "label": "Netherlands 🇳🇱 vs 🇸🇪 Sweden",
-    "note": "Group F, Matchday 2. Netherlands opened with a 2-2 draw vs Japan; Sweden hammered Tunisia 5-1. Kicks off Sat 20 June 17:00 UTC (1pm ET) at NRG Stadium, Houston. Germany vs Ivory Coast follows at 20:00 UTC; Ecuador vs Curaçao at 00:00 UTC.",
-    "kickoff": "2026-06-20T17:00:00Z"
+    "label": "Germany 🇩🇪 vs 🇨🇮 Ivory Coast",
+    "note": "Group E, Matchday 2 — two MD1 winners meet. Germany routed Curaçao 7-1; Ivory Coast edged Ecuador 1-0. Kicks off Sat 20 June 20:00 UTC (4pm ET). Earlier today Netherlands vs Sweden (17:00 UTC) is in play; Ecuador vs Curaçao closes the night at 00:00 UTC.",
+    "kickoff": "2026-06-20T20:00:00Z"
   },
   "BRACKET": {
     "Round of 32": [],

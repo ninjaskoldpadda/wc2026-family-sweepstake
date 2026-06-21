@@ -1,14 +1,14 @@
 {
-  "LAST_SYNC": "Sat 20 June, 18:15 UTC",
+  "LAST_SYNC": "Sun 21 June, 06:14 UTC",
   "STAGE": "Group stage — Matchday 2",
-  "ELIMINATED": [],
+  "ELIMINATED": ["Turkey", "Tunisia"],
   "NEXT_MATCH": {
-    "label": "Germany 🇩🇪 vs 🇨🇮 Ivory Coast",
-    "note": "Group E, Matchday 2 — two MD1 winners meet. Germany routed Curaçao 7-1; Ivory Coast edged Ecuador 1-0. Kicks off Sat 20 June 20:00 UTC (4pm ET). Earlier today Netherlands vs Sweden (17:00 UTC) is in play; Ecuador vs Curaçao closes the night at 00:00 UTC.",
-    "kickoff": "2026-06-20T20:00:00Z"
+    "label": "Spain 🇪🇸 vs 🇸🇦 Saudi Arabia",
+    "note": "Group H, Matchday 2 — Spain held to a 0-0 by Cape Verde on MD1, Saudi Arabia drew Uruguay 1-1, so both chase a first win. Kicks off Sun 21 June 16:00 UTC (noon ET). Later today: Belgium vs Iran (19:00 UTC), Uruguay vs Cape Verde (22:00 UTC), Egypt vs New Zealand (01:00 UTC).",
+    "kickoff": "2026-06-21T16:00:00Z"
   },
   "BRACKET": {
-    "Round of 32": [],
+    "Round of 32": ["Mexico", "USA", "Germany"],
     "Round of 16": [],
     "Quarter-Finals": [],
     "Semi-Finals": [],
@@ -92,39 +92,39 @@
       "l": 2
     },
     "Germany": {
-      "w": 1,
+      "w": 2,
       "d": 0,
       "l": 0
     },
     "Netherlands": {
-      "w": 0,
+      "w": 1,
       "d": 1,
       "l": 0
     },
     "Japan": {
-      "w": 0,
+      "w": 1,
       "d": 1,
       "l": 0
     },
     "Ivory Coast": {
       "w": 1,
       "d": 0,
-      "l": 0
+      "l": 1
     },
     "Ecuador": {
       "w": 0,
-      "d": 0,
+      "d": 1,
       "l": 1
     },
     "Sweden": {
       "w": 1,
       "d": 0,
-      "l": 0
+      "l": 1
     },
     "Tunisia": {
       "w": 0,
       "d": 0,
-      "l": 1
+      "l": 2
     },
     "Spain": {
       "w": 0,
@@ -253,6 +253,34 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    {
+      "a": "Tunisia",
+      "sa": 0,
+      "b": "Japan",
+      "sb": 4,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Ecuador",
+      "sa": 0,
+      "b": "Curaçao",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Germany",
+      "sa": 2,
+      "b": "Ivory Coast",
+      "sb": 1,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Netherlands",
+      "sa": 5,
+      "b": "Sweden",
+      "sb": 1,
+      "note": "Matchday 2"
+    },
     {
       "a": "Turkey",
       "sa": 0,

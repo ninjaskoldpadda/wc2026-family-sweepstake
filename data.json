@@ -1,11 +1,11 @@
 {
-  "LAST_SYNC": "Sun 21 June, 18:13 UTC",
+  "LAST_SYNC": "Sun 21 June, 23:13 UTC",
   "STAGE": "Group stage — Matchday 2",
   "ELIMINATED": ["Turkey", "Tunisia"],
   "NEXT_MATCH": {
-    "label": "Belgium 🇧🇪 vs 🇮🇷 Iran",
-    "note": "Group F, Matchday 2 — Belgium drew Egypt 1-1 on MD1, Iran drew New Zealand 2-2, so both are after a first win. Kicks off Sun 21 June 19:00 UTC. Later today: Uruguay vs Cape Verde (22:00 UTC), Egypt vs New Zealand (01:00 UTC). Earlier today Spain thrashed Saudi Arabia 4-0.",
-    "kickoff": "2026-06-21T19:00:00Z"
+    "label": "Argentina 🇦🇷 vs 🇦🇹 Austria",
+    "note": "Group J, Matchday 2 — both won their openers (Argentina 3-0 Algeria, Austria 3-1 Jordan), so the group leaders meet with top spot on the line. Kicks off Mon 22 June 13:00 UTC. Live right now: Uruguay 2-1 Cape Verde at the break. Later: Egypt vs New Zealand (01:00 UTC), France vs Iraq (17:00 UTC), Norway vs Senegal (20:00 UTC), Jordan vs Algeria (23:00 UTC).",
+    "kickoff": "2026-06-22T13:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany"],
@@ -138,7 +138,7 @@
     },
     "Belgium": {
       "w": 0,
-      "d": 1,
+      "d": 2,
       "l": 0
     },
     "Egypt": {
@@ -148,7 +148,7 @@
     },
     "Iran": {
       "w": 0,
-      "d": 1,
+      "d": 2,
       "l": 0
     },
     "Saudi Arabia": {
@@ -253,6 +253,13 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    {
+      "a": "Belgium",
+      "sa": 0,
+      "b": "Iran",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
     {
       "a": "Spain",
       "sa": 4,

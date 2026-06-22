@@ -1,11 +1,11 @@
 {
-  "LAST_SYNC": "Mon 22 June, 06:14 UTC",
+  "LAST_SYNC": "Mon 22 June, 18:13 UTC",
   "STAGE": "Group stage — Matchday 2",
   "ELIMINATED": ["Turkey", "Tunisia"],
   "NEXT_MATCH": {
-    "label": "Argentina 🇦🇷 vs 🇦🇹 Austria",
-    "note": "Group J, Matchday 2 — both won their openers (Argentina 3-0 Algeria, Austria 3-1 Jordan), so the group leaders meet with top spot on the line. Kicks off Mon 22 June 17:00 UTC. Rest of today's card: France vs Iraq (21:00 UTC), Norway vs Senegal (00:00 UTC Tue), Jordan vs Algeria (03:00 UTC Tue).",
-    "kickoff": "2026-06-22T17:00:00Z"
+    "label": "France 🇫🇷 vs 🇮🇶 Iraq",
+    "note": "Group J/D card rolls on. Argentina vs Austria (both 1-0 winners in their openers) is in progress as of this sync — score not yet final. France look to seal top spot after beating Senegal 3-1; Iraq are chasing a first point after a 4-1 loss to Norway. Kicks off Mon 22 June 21:00 UTC. Later today: Norway vs Senegal (00:00 UTC Tue), Jordan vs Algeria (03:00 UTC Tue).",
+    "kickoff": "2026-06-22T21:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany"],

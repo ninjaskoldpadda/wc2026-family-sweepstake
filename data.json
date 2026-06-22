@@ -1,14 +1,14 @@
 {
-  "LAST_SYNC": "Mon 22 June, 18:13 UTC",
+  "LAST_SYNC": "Mon 22 June, 23:14 UTC",
   "STAGE": "Group stage — Matchday 2",
   "ELIMINATED": ["Turkey", "Tunisia"],
   "NEXT_MATCH": {
-    "label": "France 🇫🇷 vs 🇮🇶 Iraq",
-    "note": "Group J/D card rolls on. Argentina vs Austria (both 1-0 winners in their openers) is in progress as of this sync — score not yet final. France look to seal top spot after beating Senegal 3-1; Iraq are chasing a first point after a 4-1 loss to Norway. Kicks off Mon 22 June 21:00 UTC. Later today: Norway vs Senegal (00:00 UTC Tue), Jordan vs Algeria (03:00 UTC Tue).",
-    "kickoff": "2026-06-22T21:00:00Z"
+    "label": "Norway 🇳🇴 vs 🇸🇳 Senegal",
+    "note": "Group I, Matchday 2. Argentina have just beaten Austria 2-0 (Messi brace — now the all-time men's World Cup top scorer on 18). France vs Iraq is in progress as this sync runs (France led 1-0 at the break, weather-delayed) — score not logged until final. Next up: group leaders Norway (4-1 winners over Iraq) face Senegal, who need points after losing 3-1 to France. Kicks off Tue 23 June 00:00 UTC. Then Jordan vs Algeria at 03:00 UTC.",
+    "kickoff": "2026-06-23T00:00:00Z"
   },
   "BRACKET": {
-    "Round of 32": ["Mexico", "USA", "Germany"],
+    "Round of 32": ["Mexico", "USA", "Germany", "Argentina"],
     "Round of 16": [],
     "Quarter-Finals": [],
     "Semi-Finals": [],
@@ -182,7 +182,7 @@
       "l": 1
     },
     "Argentina": {
-      "w": 1,
+      "w": 2,
       "d": 0,
       "l": 0
     },
@@ -194,7 +194,7 @@
     "Austria": {
       "w": 1,
       "d": 0,
-      "l": 0
+      "l": 1
     },
     "Jordan": {
       "w": 0,
@@ -253,6 +253,13 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    {
+      "a": "Argentina",
+      "sa": 2,
+      "b": "Austria",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
     {
       "a": "Egypt",
       "sa": 3,

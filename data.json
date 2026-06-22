@@ -1,11 +1,11 @@
 {
-  "LAST_SYNC": "Sun 21 June, 23:13 UTC",
+  "LAST_SYNC": "Mon 22 June, 06:14 UTC",
   "STAGE": "Group stage — Matchday 2",
   "ELIMINATED": ["Turkey", "Tunisia"],
   "NEXT_MATCH": {
     "label": "Argentina 🇦🇷 vs 🇦🇹 Austria",
-    "note": "Group J, Matchday 2 — both won their openers (Argentina 3-0 Algeria, Austria 3-1 Jordan), so the group leaders meet with top spot on the line. Kicks off Mon 22 June 13:00 UTC. Live right now: Uruguay 2-1 Cape Verde at the break. Later: Egypt vs New Zealand (01:00 UTC), France vs Iraq (17:00 UTC), Norway vs Senegal (20:00 UTC), Jordan vs Algeria (23:00 UTC).",
-    "kickoff": "2026-06-22T13:00:00Z"
+    "note": "Group J, Matchday 2 — both won their openers (Argentina 3-0 Algeria, Austria 3-1 Jordan), so the group leaders meet with top spot on the line. Kicks off Mon 22 June 17:00 UTC. Rest of today's card: France vs Iraq (21:00 UTC), Norway vs Senegal (00:00 UTC Tue), Jordan vs Algeria (03:00 UTC Tue).",
+    "kickoff": "2026-06-22T17:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany"],
@@ -133,7 +133,7 @@
     },
     "Cape Verde": {
       "w": 0,
-      "d": 1,
+      "d": 2,
       "l": 0
     },
     "Belgium": {
@@ -142,7 +142,7 @@
       "l": 0
     },
     "Egypt": {
-      "w": 0,
+      "w": 1,
       "d": 1,
       "l": 0
     },
@@ -158,7 +158,7 @@
     },
     "Uruguay": {
       "w": 0,
-      "d": 1,
+      "d": 2,
       "l": 0
     },
     "France": {
@@ -253,6 +253,20 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    {
+      "a": "Egypt",
+      "sa": 3,
+      "b": "New Zealand",
+      "sb": 1,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Uruguay",
+      "sa": 2,
+      "b": "Cape Verde",
+      "sb": 2,
+      "note": "Matchday 2"
+    },
     {
       "a": "Belgium",
       "sa": 0,

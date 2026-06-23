@@ -1,11 +1,11 @@
 {
-  "LAST_SYNC": "Tue 23 June, 06:15 UTC",
+  "LAST_SYNC": "Tue 23 June, 18:15 UTC",
   "STAGE": "Group stage — Matchday 2",
   "ELIMINATED": ["Turkey", "Tunisia"],
   "NEXT_MATCH": {
-    "label": "Portugal 🇵🇹 vs 🇺🇿 Uzbekistan",
-    "note": "Matchday 2 (Portugal's group). Overnight results completed Matchday 2 in Groups I and J: France beat Iraq 3-0 (game suspended at half-time by a Philadelphia thunderstorm, then resumed), Norway edged Senegal 3-2, and Algeria came from behind to beat Jordan 2-1. France, Norway and Argentina have all reached the knockouts. Next up, Portugal (1-1 with DR Congo on Matchday 1) face Uzbekistan, who need a result after losing 3-1 to Colombia. Kicks off Tue 23 June 17:00 UTC, with England vs Ghana (20:00) and Panama vs Croatia (23:00) to follow.",
-    "kickoff": "2026-06-23T17:00:00Z"
+    "label": "England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs 🇬🇭 Ghana",
+    "note": "Matchday 2, Group F. Portugal vs Uzbekistan is being played right now (17:00 UTC kickoff) — Ronaldo has scored twice to put Portugal in front, but the result isn't final so it's not in the feed yet; it'll land in the next sync. Next up tonight: England (beat Croatia 4-2 on Matchday 1) take on Ghana (beat Panama 1-0) at 20:00 UTC, then Panama vs Croatia (23:00) and Colombia vs DR Congo (22:00) close out Matchday 2 in Groups E and F.",
+    "kickoff": "2026-06-23T20:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "Argentina", "France", "Norway"],

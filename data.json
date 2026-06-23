@@ -1,14 +1,14 @@
 {
-  "LAST_SYNC": "Mon 22 June, 23:14 UTC",
+  "LAST_SYNC": "Tue 23 June, 06:15 UTC",
   "STAGE": "Group stage — Matchday 2",
   "ELIMINATED": ["Turkey", "Tunisia"],
   "NEXT_MATCH": {
-    "label": "Norway 🇳🇴 vs 🇸🇳 Senegal",
-    "note": "Group I, Matchday 2. Argentina have just beaten Austria 2-0 (Messi brace — now the all-time men's World Cup top scorer on 18). France vs Iraq is in progress as this sync runs (France led 1-0 at the break, weather-delayed) — score not logged until final. Next up: group leaders Norway (4-1 winners over Iraq) face Senegal, who need points after losing 3-1 to France. Kicks off Tue 23 June 00:00 UTC. Then Jordan vs Algeria at 03:00 UTC.",
-    "kickoff": "2026-06-23T00:00:00Z"
+    "label": "Portugal 🇵🇹 vs 🇺🇿 Uzbekistan",
+    "note": "Matchday 2 (Portugal's group). Overnight results completed Matchday 2 in Groups I and J: France beat Iraq 3-0 (game suspended at half-time by a Philadelphia thunderstorm, then resumed), Norway edged Senegal 3-2, and Algeria came from behind to beat Jordan 2-1. France, Norway and Argentina have all reached the knockouts. Next up, Portugal (1-1 with DR Congo on Matchday 1) face Uzbekistan, who need a result after losing 3-1 to Colombia. Kicks off Tue 23 June 17:00 UTC, with England vs Ghana (20:00) and Panama vs Croatia (23:00) to follow.",
+    "kickoff": "2026-06-23T17:00:00Z"
   },
   "BRACKET": {
-    "Round of 32": ["Mexico", "USA", "Germany", "Argentina"],
+    "Round of 32": ["Mexico", "USA", "Germany", "Argentina", "France", "Norway"],
     "Round of 16": [],
     "Quarter-Finals": [],
     "Semi-Finals": [],
@@ -162,24 +162,24 @@
       "l": 0
     },
     "France": {
-      "w": 1,
+      "w": 2,
       "d": 0,
       "l": 0
     },
     "Senegal": {
       "w": 0,
       "d": 0,
-      "l": 1
+      "l": 2
     },
     "Norway": {
-      "w": 1,
+      "w": 2,
       "d": 0,
       "l": 0
     },
     "Iraq": {
       "w": 0,
       "d": 0,
-      "l": 1
+      "l": 2
     },
     "Argentina": {
       "w": 2,
@@ -187,7 +187,7 @@
       "l": 0
     },
     "Algeria": {
-      "w": 0,
+      "w": 1,
       "d": 0,
       "l": 1
     },
@@ -199,7 +199,7 @@
     "Jordan": {
       "w": 0,
       "d": 0,
-      "l": 1
+      "l": 2
     },
     "Portugal": {
       "w": 0,
@@ -253,6 +253,27 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    {
+      "a": "Algeria",
+      "sa": 2,
+      "b": "Jordan",
+      "sb": 1,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "France",
+      "sa": 3,
+      "b": "Iraq",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Norway",
+      "sa": 3,
+      "b": "Senegal",
+      "sb": 2,
+      "note": "Matchday 2"
+    },
     {
       "a": "Argentina",
       "sa": 2,

@@ -1,14 +1,14 @@
 {
-  "LAST_SYNC": "Wed 24 June, 18:15 UTC",
+  "LAST_SYNC": "Wed 24 June, 23:15 UTC",
   "STAGE": "Group stage — Matchday 3",
-  "ELIMINATED": ["Turkey", "Tunisia", "Jordan"],
+  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar"],
   "NEXT_MATCH": {
-    "label": "Switzerland 🇨🇭 vs 🇨🇦 Canada",
-    "note": "Matchday 2 is done and dusted. Overnight, Colombia beat DR Congo 1-0 (Daniel Muñoz, 76') to make it two wins from two and book their spot in the Round of 32, while Croatia edged Panama 1-0 (Ante Budimir, 54') to keep their hopes alive and send Panama home pointless. Now the final round of group games begins. First up is the Group B decider: Switzerland and Canada both sit on 4 points after a win and a draw apiece — winner tops the group, and a draw likely sends both through. Kick-off is at BC Place, Vancouver, 3pm ET.",
-    "kickoff": "2026-06-24T19:00:00Z"
+    "label": "South Korea 🇰🇷 vs 🇿🇦 South Africa",
+    "note": "Group B is in the books. Switzerland topped the group with a 2-1 win over Canada at BC Place — Rubén Vargas and Johan Manzambi struck early in the second half before Promise David pulled one back for the Canadians, who still go through as runners-up. Bosnia & Herzegovina kept their own hopes alive with a 3-1 win over Qatar (Kerim Alajbegović and Ermin Mahmić on the scoresheet), a result that sends Qatar home and leaves Bosnia third, sweating on a best-third spot. Group C is underway as we sync — Scotland v Brazil and Morocco v Haiti both kicked off at 6pm ET. Next to come is the Group A finale: South Korea (3 pts) face South Africa (1 pt), with Korea needing only a draw to advance. Kick-off 9pm ET.",
+    "kickoff": "2026-06-25T01:00:00Z"
   },
   "BRACKET": {
-    "Round of 32": ["Mexico", "USA", "Germany", "Argentina", "France", "Norway", "Colombia"],
+    "Round of 32": ["Mexico", "USA", "Germany", "Argentina", "France", "Norway", "Colombia", "Switzerland", "Canada"],
     "Round of 16": [],
     "Quarter-Finals": [],
     "Semi-Finals": [],
@@ -20,12 +20,12 @@
     "South Africa": { "w": 0, "d": 1, "l": 1 },
     "South Korea": { "w": 1, "d": 0, "l": 1 },
     "Czechia": { "w": 0, "d": 1, "l": 1 },
-    "Canada": { "w": 1, "d": 1, "l": 0 },
-    "Bosnia & Herzegovina": { "w": 0, "d": 1, "l": 1 },
+    "Canada": { "w": 1, "d": 1, "l": 1 },
+    "Bosnia & Herzegovina": { "w": 1, "d": 1, "l": 1 },
     "USA": { "w": 2, "d": 0, "l": 0 },
     "Paraguay": { "w": 1, "d": 0, "l": 1 },
-    "Qatar": { "w": 0, "d": 1, "l": 1 },
-    "Switzerland": { "w": 1, "d": 1, "l": 0 },
+    "Qatar": { "w": 0, "d": 1, "l": 2 },
+    "Switzerland": { "w": 2, "d": 1, "l": 0 },
     "Brazil": { "w": 1, "d": 1, "l": 0 },
     "Morocco": { "w": 1, "d": 1, "l": 0 },
     "Scotland": { "w": 1, "d": 0, "l": 1 },
@@ -73,6 +73,8 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    { "a": "Switzerland", "sa": 2, "b": "Canada", "sb": 1, "note": "Matchday 3" },
+    { "a": "Bosnia & Herzegovina", "sa": 3, "b": "Qatar", "sb": 1, "note": "Matchday 3" },
     { "a": "Colombia", "sa": 1, "b": "DR Congo", "sb": 0, "note": "Matchday 2" },
     { "a": "Croatia", "sa": 1, "b": "Panama", "sb": 0, "note": "Matchday 2" },
     { "a": "England", "sa": 0, "b": "Ghana", "sb": 0, "note": "Matchday 2" },

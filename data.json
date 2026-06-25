@@ -1,14 +1,14 @@
 {
-  "LAST_SYNC": "Wed 24 June, 23:15 UTC",
+  "LAST_SYNC": "Thu 25 June, 06:15 UTC",
   "STAGE": "Group stage — Matchday 3",
-  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar"],
+  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia"],
   "NEXT_MATCH": {
-    "label": "South Korea 🇰🇷 vs 🇿🇦 South Africa",
-    "note": "Group B is in the books. Switzerland topped the group with a 2-1 win over Canada at BC Place — Rubén Vargas and Johan Manzambi struck early in the second half before Promise David pulled one back for the Canadians, who still go through as runners-up. Bosnia & Herzegovina kept their own hopes alive with a 3-1 win over Qatar (Kerim Alajbegović and Ermin Mahmić on the scoresheet), a result that sends Qatar home and leaves Bosnia third, sweating on a best-third spot. Group C is underway as we sync — Scotland v Brazil and Morocco v Haiti both kicked off at 6pm ET. Next to come is the Group A finale: South Korea (3 pts) face South Africa (1 pt), with Korea needing only a draw to advance. Kick-off 9pm ET.",
-    "kickoff": "2026-06-25T01:00:00Z"
+    "label": "Ecuador 🇪🇨 vs 🇩🇪 Germany",
+    "note": "Groups A and C are now complete. Mexico signed off as Group A winners with a commanding 3-0 win over Czechia to stay perfect on nine points, while in the late game South Africa pulled off the shock of the matchday — a 1-0 win over South Korea sending Bafana Bafana into the World Cup knockout stage for the first time ever as Group A runners-up. South Korea and Czechia are heading home from Group A. In Group C, Brazil clinched top spot with a 3-0 dismissal of Scotland, and Morocco took second after a 4-2 win over Haiti — both finished on seven points, separated only by goal difference. Scotland's tournament hangs by a thread as a third-placed side. Attention now turns to the Group E/F finales today: first up, Ecuador face an already-qualified Germany who top the group — Ecuador need a result to have any hope. Kick-off 4pm ET / 20:00 UTC.",
+    "kickoff": "2026-06-25T20:00:00Z"
   },
   "BRACKET": {
-    "Round of 32": ["Mexico", "USA", "Germany", "Argentina", "France", "Norway", "Colombia", "Switzerland", "Canada"],
+    "Round of 32": ["Mexico", "USA", "Germany", "Argentina", "France", "Norway", "Colombia", "Switzerland", "Canada", "South Africa", "Brazil", "Morocco"],
     "Round of 16": [],
     "Quarter-Finals": [],
     "Semi-Finals": [],
@@ -16,19 +16,19 @@
     "Champion": []
   },
   "RESULTS": {
-    "Mexico": { "w": 2, "d": 0, "l": 0 },
-    "South Africa": { "w": 0, "d": 1, "l": 1 },
-    "South Korea": { "w": 1, "d": 0, "l": 1 },
-    "Czechia": { "w": 0, "d": 1, "l": 1 },
+    "Mexico": { "w": 3, "d": 0, "l": 0 },
+    "South Africa": { "w": 1, "d": 1, "l": 1 },
+    "South Korea": { "w": 1, "d": 0, "l": 2 },
+    "Czechia": { "w": 0, "d": 1, "l": 2 },
     "Canada": { "w": 1, "d": 1, "l": 1 },
     "Bosnia & Herzegovina": { "w": 1, "d": 1, "l": 1 },
     "USA": { "w": 2, "d": 0, "l": 0 },
     "Paraguay": { "w": 1, "d": 0, "l": 1 },
     "Qatar": { "w": 0, "d": 1, "l": 2 },
     "Switzerland": { "w": 2, "d": 1, "l": 0 },
-    "Brazil": { "w": 1, "d": 1, "l": 0 },
-    "Morocco": { "w": 1, "d": 1, "l": 0 },
-    "Scotland": { "w": 1, "d": 0, "l": 1 },
+    "Brazil": { "w": 2, "d": 1, "l": 0 },
+    "Morocco": { "w": 2, "d": 1, "l": 0 },
+    "Scotland": { "w": 1, "d": 0, "l": 2 },
     "Australia": { "w": 1, "d": 0, "l": 1 },
     "Turkey": { "w": 0, "d": 0, "l": 2 },
     "Germany": { "w": 2, "d": 0, "l": 0 },
@@ -73,6 +73,10 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    { "a": "South Africa", "sa": 1, "b": "South Korea", "sb": 0, "note": "Matchday 3" },
+    { "a": "Mexico", "sa": 3, "b": "Czechia", "sb": 0, "note": "Matchday 3" },
+    { "a": "Brazil", "sa": 3, "b": "Scotland", "sb": 0, "note": "Matchday 3" },
+    { "a": "Morocco", "sa": 4, "b": "Haiti", "sb": 2, "note": "Matchday 3" },
     { "a": "Switzerland", "sa": 2, "b": "Canada", "sb": 1, "note": "Matchday 3" },
     { "a": "Bosnia & Herzegovina", "sa": 3, "b": "Qatar", "sb": 1, "note": "Matchday 3" },
     { "a": "Colombia", "sa": 1, "b": "DR Congo", "sb": 0, "note": "Matchday 2" },

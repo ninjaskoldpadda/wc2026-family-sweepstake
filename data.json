@@ -1,15 +1,15 @@
 {
-  "LAST_SYNC": "Mon 29 June, 18:13 UTC",
+  "LAST_SYNC": "Mon 29 June, 23:14 UTC",
   "STAGE": "Round of 32",
-  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "DR Congo", "Algeria", "Uzbekistan", "Panama", "South Africa"],
+  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "DR Congo", "Algeria", "Uzbekistan", "Panama", "South Africa", "Japan"],
   "NEXT_MATCH": {
-    "label": "Germany 🇩🇪 vs 🇵🇾 Paraguay",
-    "note": "Live right now: Brazil v Japan in Houston — and it's a shock in the making, Japan leading 1-0 early in the second half through Kaishu Sano, with Brazil 45 minutes from going out (not final yet, so it's not in the results below). Next to kick off is Germany v Paraguay at Gillette Stadium, Boston (4:30pm ET / 20:30 UTC) — four-time champions Germany, who survived a scare with that 2-1 loss to Ecuador, against a Paraguay side that ground out top spots and draws all the way through. Then late Monday: Netherlands v Morocco in Monterrey (9pm ET). The Round of 32 opened Sunday with Canada edging South Africa 1-0 to reach the last 16 for the first time.",
-    "kickoff": "2026-06-29T20:30:00Z"
+    "label": "Netherlands 🇳🇱 vs 🇲🇦 Morocco",
+    "note": "Brazil are through — they stunned Japan 2-1 in the knockout opener, Japan leading through Kaishu Sano (29') before Casemiro levelled (56') and Gabriel Martinelli ripped a winner deep in stoppage time (90+5'). That sends Brazil to the last 16 and knocks Japan out. Germany v Paraguay is locked at 1-1 and gone to extra time (Julio Enciso for Paraguay, Kai Havertz the leveller) — first match of the tournament to need ET, so it's NOT in the results below until it's settled. Next to kick off is Netherlands v Morocco at Estadio BBVA, Monterrey (9pm ET / 01:00 UTC) — the Dutch topped a tough group, Morocco unbeaten with two wins. The Round of 32 opened Sunday with Canada edging South Africa 1-0.",
+    "kickoff": "2026-06-30T01:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "Iran", "South Korea"],
-    "Round of 16": ["Canada"],
+    "Round of 16": ["Canada", "Brazil"],
     "Quarter-Finals": [],
     "Semi-Finals": [],
     "Final": [],
@@ -26,14 +26,14 @@
     "Paraguay": { "w": 1, "d": 1, "l": 1 },
     "Qatar": { "w": 0, "d": 1, "l": 2 },
     "Switzerland": { "w": 2, "d": 1, "l": 0 },
-    "Brazil": { "w": 2, "d": 1, "l": 0 },
+    "Brazil": { "w": 3, "d": 1, "l": 0 },
     "Morocco": { "w": 2, "d": 1, "l": 0 },
     "Scotland": { "w": 1, "d": 0, "l": 2 },
     "Australia": { "w": 1, "d": 1, "l": 1 },
     "Turkey": { "w": 1, "d": 0, "l": 2 },
     "Germany": { "w": 2, "d": 0, "l": 1 },
     "Netherlands": { "w": 2, "d": 1, "l": 0 },
-    "Japan": { "w": 1, "d": 2, "l": 0 },
+    "Japan": { "w": 1, "d": 2, "l": 1 },
     "Ivory Coast": { "w": 2, "d": 0, "l": 1 },
     "Ecuador": { "w": 1, "d": 1, "l": 1 },
     "Sweden": { "w": 1, "d": 1, "l": 1 },
@@ -73,6 +73,7 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    { "a": "Brazil", "sa": 2, "b": "Japan", "sb": 1, "note": "Round of 32" },
     { "a": "South Africa", "sa": 0, "b": "Canada", "sb": 1, "note": "Round of 32" },
     { "a": "Argentina", "sa": 2, "b": "Jordan", "sb": 0, "note": "Matchday 3" },
     { "a": "Austria", "sa": 2, "b": "Algeria", "sb": 1, "note": "Matchday 3" },

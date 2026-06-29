@@ -1,11 +1,11 @@
 {
-  "LAST_SYNC": "Mon 29 June, 06:13 UTC",
+  "LAST_SYNC": "Mon 29 June, 18:13 UTC",
   "STAGE": "Round of 32",
   "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "DR Congo", "Algeria", "Uzbekistan", "Panama", "South Africa"],
   "NEXT_MATCH": {
-    "label": "Brazil 🇧🇷 vs 🇯🇵 Japan",
-    "note": "Three-a-day knockout football starts Monday. First up: Brazil v Japan at NRG Stadium in Houston (1pm ET / 17:00 UTC). Brazil topped a tough Group F unbeaten despite that opening-night 1-1 with Morocco, while Japan come in dangerous — Group E winners on the back of a 4-0 demolition of Tunisia and draws with both the Netherlands and Sweden, unbeaten and yet to lose all tournament. Later Monday: Germany v Paraguay (Foxborough, 4:30pm ET) and Netherlands v Morocco (Guadalupe, 9pm ET). The Round of 32 opened Sunday with Canada edging South Africa 1-0 on Stephen Eustáquio's stoppage-time winner to reach the last 16 for the first time.",
-    "kickoff": "2026-06-29T17:00:00Z"
+    "label": "Germany 🇩🇪 vs 🇵🇾 Paraguay",
+    "note": "Live right now: Brazil v Japan in Houston — and it's a shock in the making, Japan leading 1-0 early in the second half through Kaishu Sano, with Brazil 45 minutes from going out (not final yet, so it's not in the results below). Next to kick off is Germany v Paraguay at Gillette Stadium, Boston (4:30pm ET / 20:30 UTC) — four-time champions Germany, who survived a scare with that 2-1 loss to Ecuador, against a Paraguay side that ground out top spots and draws all the way through. Then late Monday: Netherlands v Morocco in Monterrey (9pm ET). The Round of 32 opened Sunday with Canada edging South Africa 1-0 to reach the last 16 for the first time.",
+    "kickoff": "2026-06-29T20:30:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "Iran", "South Korea"],

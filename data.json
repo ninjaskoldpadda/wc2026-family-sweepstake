@@ -1,11 +1,11 @@
 {
-  "LAST_SYNC": "Tue 30 June, 06:15 UTC",
+  "LAST_SYNC": "Tue 30 June, 18:15 UTC",
   "STAGE": "Round of 32",
   "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "DR Congo", "Algeria", "Uzbekistan", "Panama", "South Africa", "Japan", "Germany", "Netherlands"],
   "NEXT_MATCH": {
-    "label": "Ivory Coast 🇨🇮 vs 🇳🇴 Norway",
-    "note": "Two penalty-shootout shocks overnight. Morocco knocked out the Netherlands, 1-1 after extra time then 3-2 on spot-kicks — Yassine Bounou the hero as the Dutch missed three of their five. And Paraguay stunned Germany, 1-1 after ET (Julio Enciso, Kai Havertz the leveller) before keeper Orlando Gill saved two in a 4-3 shootout win, Jonathan Tah skying the decisive German kick. Both Germany and the Netherlands are OUT. Brazil (beat Japan 2-1) and Canada (beat South Africa 1-0) had already gone through. Next up: Ivory Coast v Norway at AT&T Stadium, Arlington (1pm ET / 17:00 UTC), kicking off a three-game Tuesday — France v Sweden and Mexico v Ecuador follow.",
-    "kickoff": "2026-06-30T17:00:00Z"
+    "label": "France 🇫🇷 vs 🇸🇪 Sweden",
+    "note": "Round of 32 rolls on. The big overnight news: two penalty-shootout shocks — Morocco knocked out the Netherlands (1-1 after ET, 3-2 on pens, Bounou the hero) and Paraguay sent Germany home (1-1 after ET, 4-3 on pens). Both Germany and the Netherlands are OUT; Morocco and Paraguay join Brazil (2-1 v Japan) and Canada (1-0 v South Africa) in the last 16. Today's three-game Tuesday is underway — Ivory Coast v Norway kicked off at AT&T Stadium, Arlington (live now). Next up: France v Sweden at MetLife Stadium, East Rutherford (5pm ET / 21:00 UTC), then Mexico v Ecuador at the Azteca (9pm ET / 01:00 UTC).",
+    "kickoff": "2026-06-30T21:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "Iran", "South Korea"],

@@ -1,15 +1,15 @@
 {
-  "LAST_SYNC": "Tue 30 June, 18:15 UTC",
+  "LAST_SYNC": "Tue 30 June, 23:15 UTC",
   "STAGE": "Round of 32",
-  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "DR Congo", "Algeria", "Uzbekistan", "Panama", "South Africa", "Japan", "Germany", "Netherlands"],
+  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "DR Congo", "Algeria", "Uzbekistan", "Panama", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden"],
   "NEXT_MATCH": {
-    "label": "France 🇫🇷 vs 🇸🇪 Sweden",
-    "note": "Round of 32 rolls on. The big overnight news: two penalty-shootout shocks — Morocco knocked out the Netherlands (1-1 after ET, 3-2 on pens, Bounou the hero) and Paraguay sent Germany home (1-1 after ET, 4-3 on pens). Both Germany and the Netherlands are OUT; Morocco and Paraguay join Brazil (2-1 v Japan) and Canada (1-0 v South Africa) in the last 16. Today's three-game Tuesday is underway — Ivory Coast v Norway kicked off at AT&T Stadium, Arlington (live now). Next up: France v Sweden at MetLife Stadium, East Rutherford (5pm ET / 21:00 UTC), then Mexico v Ecuador at the Azteca (9pm ET / 01:00 UTC).",
-    "kickoff": "2026-06-30T21:00:00Z"
+    "label": "Mexico 🇲🇽 vs 🇪🇨 Ecuador",
+    "note": "Tuesday's first two Round of 32 ties are done and both went to form. France brushed Sweden aside 3-0 at MetLife (Mbappé with a brace) and Norway edged a tense one against Ivory Coast 2-1, Haaland heading in the winner with four minutes left. Both join Brazil, Canada, Morocco and Paraguay in the last 16. That leaves just ONE Round of 32 tie outstanding — Mexico v Ecuador at the Azteca (9pm ET / 01:00 UTC), the host nation chasing the final last-16 spot in front of a full house. Win and El Tri march on; Ecuador will fancy the upset.",
+    "kickoff": "2026-07-01T01:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "Iran", "South Korea"],
-    "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco"],
+    "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco", "France", "Norway"],
     "Quarter-Finals": [],
     "Semi-Finals": [],
     "Final": [],
@@ -34,9 +34,9 @@
     "Germany": { "w": 2, "d": 1, "l": 1 },
     "Netherlands": { "w": 2, "d": 2, "l": 0 },
     "Japan": { "w": 1, "d": 2, "l": 1 },
-    "Ivory Coast": { "w": 2, "d": 0, "l": 1 },
+    "Ivory Coast": { "w": 2, "d": 0, "l": 2 },
     "Ecuador": { "w": 1, "d": 1, "l": 1 },
-    "Sweden": { "w": 1, "d": 1, "l": 1 },
+    "Sweden": { "w": 1, "d": 1, "l": 2 },
     "Tunisia": { "w": 0, "d": 0, "l": 3 },
     "Spain": { "w": 2, "d": 1, "l": 0 },
     "Cape Verde": { "w": 0, "d": 3, "l": 0 },
@@ -45,9 +45,9 @@
     "Iran": { "w": 0, "d": 3, "l": 0 },
     "Saudi Arabia": { "w": 0, "d": 2, "l": 1 },
     "Uruguay": { "w": 0, "d": 2, "l": 1 },
-    "France": { "w": 3, "d": 0, "l": 0 },
+    "France": { "w": 4, "d": 0, "l": 0 },
     "Senegal": { "w": 1, "d": 0, "l": 2 },
-    "Norway": { "w": 2, "d": 0, "l": 1 },
+    "Norway": { "w": 3, "d": 0, "l": 1 },
     "Iraq": { "w": 0, "d": 0, "l": 3 },
     "Argentina": { "w": 3, "d": 0, "l": 0 },
     "Algeria": { "w": 1, "d": 0, "l": 2 },
@@ -73,6 +73,8 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    { "a": "France", "sa": 3, "b": "Sweden", "sb": 0, "note": "Round of 32" },
+    { "a": "Ivory Coast", "sa": 1, "b": "Norway", "sb": 2, "note": "Round of 32" },
     { "a": "Netherlands", "sa": 1, "b": "Morocco", "sb": 1, "note": "Round of 32 · Morocco won 3-2 on pens" },
     { "a": "Germany", "sa": 1, "b": "Paraguay", "sb": 1, "note": "Round of 32 · Paraguay won 4-3 on pens" },
     { "a": "Brazil", "sa": 2, "b": "Japan", "sb": 1, "note": "Round of 32" },

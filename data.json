@@ -1,15 +1,15 @@
 {
-  "LAST_SYNC": "Mon 29 June, 23:14 UTC",
+  "LAST_SYNC": "Tue 30 June, 06:15 UTC",
   "STAGE": "Round of 32",
-  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "DR Congo", "Algeria", "Uzbekistan", "Panama", "South Africa", "Japan"],
+  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "DR Congo", "Algeria", "Uzbekistan", "Panama", "South Africa", "Japan", "Germany", "Netherlands"],
   "NEXT_MATCH": {
-    "label": "Netherlands 🇳🇱 vs 🇲🇦 Morocco",
-    "note": "Brazil are through — they stunned Japan 2-1 in the knockout opener, Japan leading through Kaishu Sano (29') before Casemiro levelled (56') and Gabriel Martinelli ripped a winner deep in stoppage time (90+5'). That sends Brazil to the last 16 and knocks Japan out. Germany v Paraguay is locked at 1-1 and gone to extra time (Julio Enciso for Paraguay, Kai Havertz the leveller) — first match of the tournament to need ET, so it's NOT in the results below until it's settled. Next to kick off is Netherlands v Morocco at Estadio BBVA, Monterrey (9pm ET / 01:00 UTC) — the Dutch topped a tough group, Morocco unbeaten with two wins. The Round of 32 opened Sunday with Canada edging South Africa 1-0.",
-    "kickoff": "2026-06-30T01:00:00Z"
+    "label": "Ivory Coast 🇨🇮 vs 🇳🇴 Norway",
+    "note": "Two penalty-shootout shocks overnight. Morocco knocked out the Netherlands, 1-1 after extra time then 3-2 on spot-kicks — Yassine Bounou the hero as the Dutch missed three of their five. And Paraguay stunned Germany, 1-1 after ET (Julio Enciso, Kai Havertz the leveller) before keeper Orlando Gill saved two in a 4-3 shootout win, Jonathan Tah skying the decisive German kick. Both Germany and the Netherlands are OUT. Brazil (beat Japan 2-1) and Canada (beat South Africa 1-0) had already gone through. Next up: Ivory Coast v Norway at AT&T Stadium, Arlington (1pm ET / 17:00 UTC), kicking off a three-game Tuesday — France v Sweden and Mexico v Ecuador follow.",
+    "kickoff": "2026-06-30T17:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "Iran", "South Korea"],
-    "Round of 16": ["Canada", "Brazil"],
+    "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco"],
     "Quarter-Finals": [],
     "Semi-Finals": [],
     "Final": [],
@@ -23,16 +23,16 @@
     "Canada": { "w": 2, "d": 1, "l": 1 },
     "Bosnia & Herzegovina": { "w": 1, "d": 1, "l": 1 },
     "USA": { "w": 2, "d": 0, "l": 1 },
-    "Paraguay": { "w": 1, "d": 1, "l": 1 },
+    "Paraguay": { "w": 2, "d": 1, "l": 1 },
     "Qatar": { "w": 0, "d": 1, "l": 2 },
     "Switzerland": { "w": 2, "d": 1, "l": 0 },
     "Brazil": { "w": 3, "d": 1, "l": 0 },
-    "Morocco": { "w": 2, "d": 1, "l": 0 },
+    "Morocco": { "w": 3, "d": 1, "l": 0 },
     "Scotland": { "w": 1, "d": 0, "l": 2 },
     "Australia": { "w": 1, "d": 1, "l": 1 },
     "Turkey": { "w": 1, "d": 0, "l": 2 },
-    "Germany": { "w": 2, "d": 0, "l": 1 },
-    "Netherlands": { "w": 2, "d": 1, "l": 0 },
+    "Germany": { "w": 2, "d": 1, "l": 1 },
+    "Netherlands": { "w": 2, "d": 2, "l": 0 },
     "Japan": { "w": 1, "d": 2, "l": 1 },
     "Ivory Coast": { "w": 2, "d": 0, "l": 1 },
     "Ecuador": { "w": 1, "d": 1, "l": 1 },
@@ -73,6 +73,8 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    { "a": "Netherlands", "sa": 1, "b": "Morocco", "sb": 1, "note": "Round of 32 · Morocco won 3-2 on pens" },
+    { "a": "Germany", "sa": 1, "b": "Paraguay", "sb": 1, "note": "Round of 32 · Paraguay won 4-3 on pens" },
     { "a": "Brazil", "sa": 2, "b": "Japan", "sb": 1, "note": "Round of 32" },
     { "a": "South Africa", "sa": 0, "b": "Canada", "sb": 1, "note": "Round of 32" },
     { "a": "Argentina", "sa": 2, "b": "Jordan", "sb": 0, "note": "Matchday 3" },

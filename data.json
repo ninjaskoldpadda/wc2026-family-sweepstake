@@ -1,15 +1,15 @@
 {
-  "LAST_SYNC": "Wed 1 July, 06:15 UTC",
+  "LAST_SYNC": "Wed 1 July, 18:15 UTC",
   "STAGE": "Round of 32",
-  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador"],
+  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo"],
   "NEXT_MATCH": {
-    "label": "England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs 🇨🇩 DR Congo",
-    "note": "Mexico kept the host nation's dream alive at a storm-delayed Azteca, brushing Ecuador aside 2-0 (Quiñones and Jiménez both inside the first half) to break a 40-year knockout curse and make it four straight wins. That was the last of Tuesday's Round of 32 ties. Three remain today: England v DR Congo kicks things off in Atlanta (5pm ET / 21:00 UTC), then USA v Bosnia & Herzegovina in the Bay Area and Belgium v Senegal up in Seattle. Winner of England v DR Congo goes on to meet Mexico back at the Azteca in the last 16.",
-    "kickoff": "2026-07-01T21:00:00Z"
+    "label": "Belgium 🇧🇪 vs 🇸🇳 Senegal",
+    "note": "England came from behind in Atlanta, Harry Kane heading in an equaliser then winning it with a twisting strike in the 86th minute to beat DR Congo 2-1 after Brian Cipenga's early opener — the Three Lions through to face Mexico in the last 16. Two Round of 32 ties remain today: Belgium v Senegal kicks off at Lumen Field, Seattle, followed by USA v Bosnia & Herzegovina at Levi's Stadium, Santa Clara.",
+    "kickoff": "2026-07-01T20:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "DR Congo", "Algeria"],
-    "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco", "France", "Norway", "Mexico"],
+    "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco", "France", "Norway", "Mexico", "England"],
     "Quarter-Finals": [],
     "Semi-Finals": [],
     "Final": [],
@@ -54,8 +54,8 @@
     "Austria": { "w": 2, "d": 0, "l": 1 },
     "Jordan": { "w": 0, "d": 0, "l": 3 },
     "Portugal": { "w": 1, "d": 1, "l": 1 },
-    "DR Congo": { "w": 0, "d": 1, "l": 2 },
-    "England": { "w": 2, "d": 1, "l": 0 },
+    "DR Congo": { "w": 0, "d": 1, "l": 3 },
+    "England": { "w": 3, "d": 1, "l": 0 },
     "Croatia": { "w": 2, "d": 0, "l": 1 },
     "Ghana": { "w": 1, "d": 1, "l": 1 },
     "Panama": { "w": 0, "d": 0, "l": 3 },
@@ -73,6 +73,7 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    { "a": "England", "sa": 2, "b": "DR Congo", "sb": 1, "note": "Round of 32" },
     { "a": "Mexico", "sa": 2, "b": "Ecuador", "sb": 0, "note": "Round of 32" },
     { "a": "France", "sa": 3, "b": "Sweden", "sb": 0, "note": "Round of 32" },
     { "a": "Ivory Coast", "sa": 1, "b": "Norway", "sb": 2, "note": "Round of 32" },

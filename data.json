@@ -1,15 +1,15 @@
 {
-  "LAST_SYNC": "Thu 2 July, 18:13 UTC",
+  "LAST_SYNC": "Thu 2 July, 23:15 UTC",
   "STAGE": "Round of 32",
-  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina"],
+  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria"],
   "NEXT_MATCH": {
-    "label": "Spain 🇪🇸 vs 🇦🇹 Austria",
-    "note": "USA outlasted Bosnia & Herzegovina 2-0 in San Francisco despite going down to 10 men — Folarin Balogun and Malik Tillman with the goals before Balogun's red card — to set up a Round of 16 date with Belgium on July 6. Six Round of 32 ties remain: Spain-Austria and Portugal-Croatia both kick off later today, with Switzerland-Algeria, Australia-Egypt, Argentina-Cape Verde and Colombia-Ghana following over the next couple of days.",
-    "kickoff": "2026-07-02T19:00:00Z"
+    "label": "Switzerland 🇨🇭 vs 🇩🇿 Algeria",
+    "note": "Spain finally shook off its knockout curse — Mikel Oyarzabal struck twice and Pedro Porro added a third in a 3-0 rout of Austria, Spain's first World Cup knockout win since 2010, booking a Round of 16 tie in Toronto. Portugal and Croatia — Ronaldo v Modric — are level and being settled as this syncs; the winner meets Spain. Switzerland-Algeria in Vancouver is next, then Saturday brings Australia-Egypt, Argentina-Cape Verde and Colombia-Ghana to close out the Round of 32.",
+    "kickoff": "2026-07-03T03:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "DR Congo", "Algeria"],
-    "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco", "France", "Norway", "Mexico", "England", "Belgium", "USA"],
+    "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco", "France", "Norway", "Mexico", "England", "Belgium", "USA", "Spain"],
     "Quarter-Finals": [],
     "Semi-Finals": [],
     "Final": [],
@@ -38,7 +38,7 @@
     "Ecuador": { "w": 1, "d": 1, "l": 2 },
     "Sweden": { "w": 1, "d": 1, "l": 2 },
     "Tunisia": { "w": 0, "d": 0, "l": 3 },
-    "Spain": { "w": 2, "d": 1, "l": 0 },
+    "Spain": { "w": 3, "d": 1, "l": 0 },
     "Cape Verde": { "w": 0, "d": 3, "l": 0 },
     "Belgium": { "w": 2, "d": 2, "l": 0 },
     "Egypt": { "w": 1, "d": 2, "l": 0 },
@@ -51,7 +51,7 @@
     "Iraq": { "w": 0, "d": 0, "l": 3 },
     "Argentina": { "w": 3, "d": 0, "l": 0 },
     "Algeria": { "w": 1, "d": 0, "l": 2 },
-    "Austria": { "w": 2, "d": 0, "l": 1 },
+    "Austria": { "w": 2, "d": 0, "l": 2 },
     "Jordan": { "w": 0, "d": 0, "l": 3 },
     "Portugal": { "w": 1, "d": 1, "l": 1 },
     "DR Congo": { "w": 0, "d": 1, "l": 3 },
@@ -73,6 +73,7 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    { "a": "Spain", "sa": 3, "b": "Austria", "sb": 0, "note": "Round of 32" },
     { "a": "USA", "sa": 2, "b": "Bosnia & Herzegovina", "sb": 0, "note": "Round of 32" },
     { "a": "Belgium", "sa": 3, "b": "Senegal", "sb": 2, "note": "Round of 32 · Belgium won after extra time" },
     { "a": "England", "sa": 2, "b": "DR Congo", "sb": 1, "note": "Round of 32" },

@@ -1,15 +1,15 @@
 {
-  "LAST_SYNC": "Fri 3 July, 18:15 UTC",
+  "LAST_SYNC": "Fri 3 July, 23:15 UTC",
   "STAGE": "Round of 32",
-  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria"],
+  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia"],
   "NEXT_MATCH": {
-    "label": "Argentina 🇦🇷 vs 🇨🇻 Cape Verde",
-    "note": "The Round of 32 wraps up tonight. Egypt-Australia in Arlington is already under way, and next up it's Messi's Argentina against the Cinderella story of the tournament, Cape Verde, in Miami — the last unbeaten sides but one meets the group's biggest overachievers. Colombia-Ghana in Kansas City closes the round late tonight, after which the last-16 bracket is complete.",
-    "kickoff": "2026-07-04T00:00:00Z"
+    "label": "Colombia 🇨🇴 vs 🇬🇭 Ghana",
+    "note": "The last of the Round of 32. Egypt got things done first, edging Australia 4-2 on penalties after a 1-1 draw in Arlington to book their last-16 spot. Argentina and Cape Verde are still going in Miami as this syncs. Colombia-Ghana in Kansas City (01:30 UTC) closes the round — the winner takes the final place in the last 16, where Switzerland await.",
+    "kickoff": "2026-07-04T01:30:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "DR Congo", "Algeria"],
-    "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco", "France", "Norway", "Mexico", "England", "Belgium", "USA", "Spain", "Portugal", "Switzerland"],
+    "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco", "France", "Norway", "Mexico", "England", "Belgium", "USA", "Spain", "Portugal", "Switzerland", "Egypt"],
     "Quarter-Finals": [],
     "Semi-Finals": [],
     "Final": [],
@@ -29,7 +29,7 @@
     "Brazil": { "w": 3, "d": 1, "l": 0 },
     "Morocco": { "w": 3, "d": 1, "l": 0 },
     "Scotland": { "w": 1, "d": 0, "l": 2 },
-    "Australia": { "w": 1, "d": 1, "l": 1 },
+    "Australia": { "w": 1, "d": 2, "l": 1 },
     "Turkey": { "w": 1, "d": 0, "l": 2 },
     "Germany": { "w": 2, "d": 1, "l": 1 },
     "Netherlands": { "w": 2, "d": 2, "l": 0 },
@@ -41,7 +41,7 @@
     "Spain": { "w": 3, "d": 1, "l": 0 },
     "Cape Verde": { "w": 0, "d": 3, "l": 0 },
     "Belgium": { "w": 2, "d": 2, "l": 0 },
-    "Egypt": { "w": 1, "d": 2, "l": 0 },
+    "Egypt": { "w": 2, "d": 2, "l": 0 },
     "Iran": { "w": 0, "d": 3, "l": 0 },
     "Saudi Arabia": { "w": 0, "d": 2, "l": 1 },
     "Uruguay": { "w": 0, "d": 2, "l": 1 },
@@ -73,6 +73,7 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    { "a": "Egypt", "sa": 1, "b": "Australia", "sb": 1, "note": "Round of 32 · Egypt won 4-2 on pens" },
     { "a": "Switzerland", "sa": 2, "b": "Algeria", "sb": 0, "note": "Round of 32" },
     { "a": "Portugal", "sa": 2, "b": "Croatia", "sb": 1, "note": "Round of 32" },
     { "a": "Spain", "sa": 3, "b": "Austria", "sb": 0, "note": "Round of 32" },

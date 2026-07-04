@@ -1,15 +1,15 @@
 {
-  "LAST_SYNC": "Fri 3 July, 23:15 UTC",
-  "STAGE": "Round of 32",
-  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia"],
+  "LAST_SYNC": "Sat 4 July, 06:15 UTC",
+  "STAGE": "Round of 16",
+  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Ghana", "Cape Verde"],
   "NEXT_MATCH": {
-    "label": "Colombia 🇨🇴 vs 🇬🇭 Ghana",
-    "note": "The last of the Round of 32. Egypt got things done first, edging Australia 4-2 on penalties after a 1-1 draw in Arlington to book their last-16 spot. Argentina and Cape Verde are still going in Miami as this syncs. Colombia-Ghana in Kansas City (01:30 UTC) closes the round — the winner takes the final place in the last 16, where Switzerland await.",
-    "kickoff": "2026-07-04T01:30:00Z"
+    "label": "Canada 🇨🇦 vs 🇲🇦 Morocco",
+    "note": "The Round of 32 is done and dusted — Colombia edged Ghana 1-0 (Arias, 14') in Kansas City and Argentina survived a huge scare, beating Cape Verde 3-2 after extra time in Miami with Messi on the scoresheet. Now the last 16 begins. Co-hosts Canada open it against Morocco at NRG Stadium, Houston — first team into the quarters. France-Paraguay follows later today.",
+    "kickoff": "2026-07-04T17:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "DR Congo", "Algeria"],
-    "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco", "France", "Norway", "Mexico", "England", "Belgium", "USA", "Spain", "Portugal", "Switzerland", "Egypt"],
+    "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco", "France", "Norway", "Mexico", "England", "Belgium", "USA", "Spain", "Portugal", "Switzerland", "Egypt", "Colombia", "Argentina"],
     "Quarter-Finals": [],
     "Semi-Finals": [],
     "Final": [],
@@ -39,7 +39,7 @@
     "Sweden": { "w": 1, "d": 1, "l": 2 },
     "Tunisia": { "w": 0, "d": 0, "l": 3 },
     "Spain": { "w": 3, "d": 1, "l": 0 },
-    "Cape Verde": { "w": 0, "d": 3, "l": 0 },
+    "Cape Verde": { "w": 0, "d": 3, "l": 1 },
     "Belgium": { "w": 2, "d": 2, "l": 0 },
     "Egypt": { "w": 2, "d": 2, "l": 0 },
     "Iran": { "w": 0, "d": 3, "l": 0 },
@@ -49,7 +49,7 @@
     "Senegal": { "w": 1, "d": 0, "l": 3 },
     "Norway": { "w": 3, "d": 0, "l": 1 },
     "Iraq": { "w": 0, "d": 0, "l": 3 },
-    "Argentina": { "w": 3, "d": 0, "l": 0 },
+    "Argentina": { "w": 4, "d": 0, "l": 0 },
     "Algeria": { "w": 1, "d": 0, "l": 3 },
     "Austria": { "w": 2, "d": 0, "l": 2 },
     "Jordan": { "w": 0, "d": 0, "l": 3 },
@@ -57,9 +57,9 @@
     "DR Congo": { "w": 0, "d": 1, "l": 3 },
     "England": { "w": 3, "d": 1, "l": 0 },
     "Croatia": { "w": 2, "d": 0, "l": 2 },
-    "Ghana": { "w": 1, "d": 1, "l": 1 },
+    "Ghana": { "w": 1, "d": 1, "l": 2 },
     "Panama": { "w": 0, "d": 0, "l": 3 },
-    "Colombia": { "w": 3, "d": 0, "l": 0 },
+    "Colombia": { "w": 4, "d": 0, "l": 0 },
     "Uzbekistan": { "w": 1, "d": 0, "l": 2 }
   },
   "AWARDS": {
@@ -73,6 +73,8 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    { "a": "Colombia", "sa": 1, "b": "Ghana", "sb": 0, "note": "Round of 32" },
+    { "a": "Argentina", "sa": 3, "b": "Cape Verde", "sb": 2, "note": "Round of 32 · Argentina won after extra time" },
     { "a": "Egypt", "sa": 1, "b": "Australia", "sb": 1, "note": "Round of 32 · Egypt won 4-2 on pens" },
     { "a": "Switzerland", "sa": 2, "b": "Algeria", "sb": 0, "note": "Round of 32" },
     { "a": "Portugal", "sa": 2, "b": "Croatia", "sb": 1, "note": "Round of 32" },

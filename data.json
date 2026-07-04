@@ -1,11 +1,11 @@
 {
-  "LAST_SYNC": "Sat 4 July, 06:15 UTC",
+  "LAST_SYNC": "Sat 4 July, 18:15 UTC",
   "STAGE": "Round of 16",
   "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Ghana", "Cape Verde"],
   "NEXT_MATCH": {
-    "label": "Canada 🇨🇦 vs 🇲🇦 Morocco",
-    "note": "The Round of 32 is done and dusted — Colombia edged Ghana 1-0 (Arias, 14') in Kansas City and Argentina survived a huge scare, beating Cape Verde 3-2 after extra time in Miami with Messi on the scoresheet. Now the last 16 begins. Co-hosts Canada open it against Morocco at NRG Stadium, Houston — first team into the quarters. France-Paraguay follows later today.",
-    "kickoff": "2026-07-04T17:00:00Z"
+    "label": "Paraguay 🇵🇾 vs 🇫🇷 France",
+    "note": "The Round of 16 is underway. Canada and Morocco are level 0-0 deep into the second half at NRG Stadium, Houston as this syncs — too tight to call, and not recorded here until it's final. Next up: Paraguay meet France at Lincoln Financial Field, Philadelphia (5pm ET) — les Bleus have won all four so far and Paraguay grafted their way here on penalties. Winner takes the first quarter-final spot on that side of the bracket.",
+    "kickoff": "2026-07-04T21:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "DR Congo", "Algeria"],

@@ -1,16 +1,16 @@
 {
-  "LAST_SYNC": "Sun 5 July, 18:15 UTC",
+  "LAST_SYNC": "Sun 5 July, 23:15 UTC",
   "STAGE": "Round of 16",
-  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Ghana", "Cape Verde", "Canada", "Paraguay"],
+  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Ghana", "Cape Verde", "Canada", "Paraguay", "Brazil"],
   "NEXT_MATCH": {
-    "label": "Brazil 🇧🇷 vs 🇳🇴 Norway",
-    "note": "The knockouts are rolling. On the opening day of the Round of 16, Morocco thumped hosts Canada 3-0 in Houston and France edged Paraguay 1-0 in Philadelphia — so Morocco and France are the first two into the quarter-finals and will meet each other in Foxborough. Next up: Brazil face Norway at MetLife Stadium, East Rutherford (4pm ET). Erling Haaland's Norway have been one of the stories of the tournament; Brazil will fancy their attack against them. Kristina owns Brazil, Lucy owns Norway.",
-    "kickoff": "2026-07-05T20:00:00Z"
+    "label": "Mexico 🇲🇽 vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
+    "note": "SHOCK AT METLIFE: Erling Haaland struck twice late (79', 90') as Norway beat Brazil 2-1 — Neymar's penalty wasn't enough and the five-time champions are OUT. Norway are in their first-ever World Cup quarter-final. Next up: Mexico host England at a rocking Estadio Azteca (6pm local / 1am UK) — the winner faces Norway in Miami on Saturday. Declan Ricecake owns Mexico, Alan Shear-Ryan owns England, so someone's getting a quarter-finalist. James Cottríguez owns Norway.",
+    "kickoff": "2026-07-06T00:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "DR Congo", "Algeria"],
     "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco", "France", "Norway", "Mexico", "England", "Belgium", "USA", "Spain", "Portugal", "Switzerland", "Egypt", "Colombia", "Argentina"],
-    "Quarter-Finals": ["Morocco", "France"],
+    "Quarter-Finals": ["Morocco", "France", "Norway"],
     "Semi-Finals": [],
     "Final": [],
     "Champion": []
@@ -26,7 +26,7 @@
     "Paraguay": { "w": 2, "d": 1, "l": 2 },
     "Qatar": { "w": 0, "d": 1, "l": 2 },
     "Switzerland": { "w": 3, "d": 1, "l": 0 },
-    "Brazil": { "w": 3, "d": 1, "l": 0 },
+    "Brazil": { "w": 3, "d": 1, "l": 1 },
     "Morocco": { "w": 4, "d": 1, "l": 0 },
     "Scotland": { "w": 1, "d": 0, "l": 2 },
     "Australia": { "w": 1, "d": 2, "l": 1 },
@@ -47,7 +47,7 @@
     "Uruguay": { "w": 0, "d": 2, "l": 1 },
     "France": { "w": 5, "d": 0, "l": 0 },
     "Senegal": { "w": 1, "d": 0, "l": 3 },
-    "Norway": { "w": 3, "d": 0, "l": 1 },
+    "Norway": { "w": 4, "d": 0, "l": 1 },
     "Iraq": { "w": 0, "d": 0, "l": 3 },
     "Argentina": { "w": 4, "d": 0, "l": 0 },
     "Algeria": { "w": 1, "d": 0, "l": 3 },
@@ -73,6 +73,7 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    { "a": "Brazil", "sa": 1, "b": "Norway", "sb": 2, "note": "Round of 16" },
     { "a": "Paraguay", "sa": 0, "b": "France", "sb": 1, "note": "Round of 16" },
     { "a": "Canada", "sa": 0, "b": "Morocco", "sb": 3, "note": "Round of 16" },
     { "a": "Colombia", "sa": 1, "b": "Ghana", "sb": 0, "note": "Round of 32" },

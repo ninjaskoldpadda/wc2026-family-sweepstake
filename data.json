@@ -1,22 +1,22 @@
 {
-  "LAST_SYNC": "Sun 5 July, 23:15 UTC",
+  "LAST_SYNC": "Mon 6 July, 06:15 UTC",
   "STAGE": "Round of 16",
-  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Ghana", "Cape Verde", "Canada", "Paraguay", "Brazil"],
+  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Ghana", "Cape Verde", "Canada", "Paraguay", "Brazil", "Mexico"],
   "NEXT_MATCH": {
-    "label": "Mexico 🇲🇽 vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
-    "note": "SHOCK AT METLIFE: Erling Haaland struck twice late (79', 90') as Norway beat Brazil 2-1 — Neymar's penalty wasn't enough and the five-time champions are OUT. Norway are in their first-ever World Cup quarter-final. Next up: Mexico host England at a rocking Estadio Azteca (6pm local / 1am UK) — the winner faces Norway in Miami on Saturday. Declan Ricecake owns Mexico, Alan Shear-Ryan owns England, so someone's getting a quarter-finalist. James Cottríguez owns Norway.",
-    "kickoff": "2026-07-06T00:00:00Z"
+    "label": "Spain 🇪🇸 vs 🇵🇹 Portugal",
+    "note": "CLASSIC AT THE AZTECA: England beat Mexico 3-2 in maybe the game of the tournament — Bellingham struck twice in the first half, Kane slotted a penalty, then Quansah saw red and 10-man England (Pickford heroics included) survived Jiménez's penalty and a furious Azteca. Alan Shear-Ryan's England march on to face James Cottríguez's Norway in Miami on Saturday; Declan Ricecake's Mexico are out. Next up: the Iberian derby — Spain vs Portugal at AT&T Stadium, Dallas (3pm ET), then USA host Belgium in Seattle tonight (8pm ET).",
+    "kickoff": "2026-07-06T19:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "DR Congo", "Algeria"],
     "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco", "France", "Norway", "Mexico", "England", "Belgium", "USA", "Spain", "Portugal", "Switzerland", "Egypt", "Colombia", "Argentina"],
-    "Quarter-Finals": ["Morocco", "France", "Norway"],
+    "Quarter-Finals": ["Morocco", "France", "Norway", "England"],
     "Semi-Finals": [],
     "Final": [],
     "Champion": []
   },
   "RESULTS": {
-    "Mexico": { "w": 4, "d": 0, "l": 0 },
+    "Mexico": { "w": 4, "d": 0, "l": 1 },
     "South Africa": { "w": 1, "d": 1, "l": 2 },
     "South Korea": { "w": 1, "d": 0, "l": 2 },
     "Czechia": { "w": 0, "d": 1, "l": 2 },
@@ -55,7 +55,7 @@
     "Jordan": { "w": 0, "d": 0, "l": 3 },
     "Portugal": { "w": 2, "d": 1, "l": 1 },
     "DR Congo": { "w": 0, "d": 1, "l": 3 },
-    "England": { "w": 3, "d": 1, "l": 0 },
+    "England": { "w": 4, "d": 1, "l": 0 },
     "Croatia": { "w": 2, "d": 0, "l": 2 },
     "Ghana": { "w": 1, "d": 1, "l": 2 },
     "Panama": { "w": 0, "d": 0, "l": 3 },
@@ -73,6 +73,7 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    { "a": "Mexico", "sa": 2, "b": "England", "sb": 3, "note": "Round of 16" },
     { "a": "Brazil", "sa": 1, "b": "Norway", "sb": 2, "note": "Round of 16" },
     { "a": "Paraguay", "sa": 0, "b": "France", "sb": 1, "note": "Round of 16" },
     { "a": "Canada", "sa": 0, "b": "Morocco", "sb": 3, "note": "Round of 16" },

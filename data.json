@@ -1,16 +1,16 @@
 {
-  "LAST_SYNC": "Tue 7 July, 18:12 UTC",
-  "STAGE": "Round of 16",
-  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Ghana", "Cape Verde", "Canada", "Paraguay", "Brazil", "Mexico", "Portugal", "USA", "Egypt"],
+  "LAST_SYNC": "Tue 7 July, 23:13 UTC",
+  "STAGE": "Quarter-finals",
+  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Ghana", "Cape Verde", "Canada", "Paraguay", "Brazil", "Mexico", "Portugal", "USA", "Egypt", "Colombia"],
   "NEXT_MATCH": {
-    "label": "Switzerland 🇨🇭 vs 🇨🇴 Colombia",
-    "note": "Argentina beat Egypt 3-2 in Atlanta (Ibrahim opener, Messi missed a penalty then equalised in the 83rd minute, Enzo Fernández scored the late winner) to reach the quarter-finals, where they'll face the winner of Switzerland vs Colombia — the last Round of 16 match, in Vancouver (4pm ET/20:00 UTC). Quarter-final schedule: France vs Morocco (Jul 9), Spain vs Belgium (Jul 10), Norway vs England (Jul 11), Argentina vs Switzerland/Colombia winner (Jul 12, Kansas City).",
-    "kickoff": "2026-07-07T20:00:00Z"
+    "label": "France 🇫🇷 vs 🇲🇦 Morocco",
+    "note": "Switzerland reached their first quarter-final since 1954 by beating Colombia 4-3 on penalties after a 0-0 stalemate in Vancouver — they get Argentina next. The quarter-finals open with a rematch of the 2022 semi: France vs Morocco in Boston (4pm ET/20:00 UTC). Full QF schedule: France vs Morocco (Jul 9), Spain vs Belgium (Jul 10, Los Angeles), Norway vs England (Jul 11, Miami), Argentina vs Switzerland (Jul 11, Kansas City).",
+    "kickoff": "2026-07-09T20:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "DR Congo", "Algeria"],
     "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco", "France", "Norway", "Mexico", "England", "Belgium", "USA", "Spain", "Portugal", "Switzerland", "Egypt", "Colombia", "Argentina"],
-    "Quarter-Finals": ["Morocco", "France", "Norway", "England", "Spain", "Belgium", "Argentina"],
+    "Quarter-Finals": ["Morocco", "France", "Norway", "England", "Spain", "Belgium", "Argentina", "Switzerland"],
     "Semi-Finals": [],
     "Final": [],
     "Champion": []
@@ -25,7 +25,7 @@
     "USA": { "w": 3, "d": 0, "l": 2 },
     "Paraguay": { "w": 2, "d": 1, "l": 2 },
     "Qatar": { "w": 0, "d": 1, "l": 2 },
-    "Switzerland": { "w": 3, "d": 1, "l": 0 },
+    "Switzerland": { "w": 4, "d": 1, "l": 0 },
     "Brazil": { "w": 3, "d": 1, "l": 1 },
     "Morocco": { "w": 4, "d": 1, "l": 0 },
     "Scotland": { "w": 1, "d": 0, "l": 2 },
@@ -59,7 +59,7 @@
     "Croatia": { "w": 2, "d": 0, "l": 2 },
     "Ghana": { "w": 1, "d": 1, "l": 2 },
     "Panama": { "w": 0, "d": 0, "l": 3 },
-    "Colombia": { "w": 4, "d": 0, "l": 0 },
+    "Colombia": { "w": 4, "d": 1, "l": 0 },
     "Uzbekistan": { "w": 1, "d": 0, "l": 2 }
   },
   "AWARDS": {
@@ -73,6 +73,7 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    { "a": "Switzerland", "sa": 0, "b": "Colombia", "sb": 0, "note": "Round of 16 · Switzerland won 4-3 on pens" },
     { "a": "Argentina", "sa": 3, "b": "Egypt", "sb": 2, "note": "Round of 16" },
     { "a": "USA", "sa": 1, "b": "Belgium", "sb": 4, "note": "Round of 16" },
     { "a": "Portugal", "sa": 0, "b": "Spain", "sb": 1, "note": "Round of 16" },

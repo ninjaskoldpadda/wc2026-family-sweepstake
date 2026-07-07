@@ -1,16 +1,16 @@
 {
-  "LAST_SYNC": "Mon 6 July, 23:14 UTC",
+  "LAST_SYNC": "Tue 7 July, 06:12 UTC",
   "STAGE": "Round of 16",
-  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Ghana", "Cape Verde", "Canada", "Paraguay", "Brazil", "Mexico", "Portugal"],
+  "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Ghana", "Cape Verde", "Canada", "Paraguay", "Brazil", "Mexico", "Portugal", "USA"],
   "NEXT_MATCH": {
-    "label": "USA 🇺🇸 vs 🇧🇪 Belgium",
-    "note": "Substitute Mikel Merino broke Portuguese hearts with a 90+1' winner as Spain edged Portugal 1-0 and ended Ronaldo's World Cup — Spain now join Morocco, France, Norway and England in the quarter-finals. Next up: USA host Belgium in Seattle (8pm ET/00:00 UTC) for the last Round of 16 spot on that side of the draw, with Argentina vs Egypt and Switzerland vs Colombia completing the round on Tuesday.",
-    "kickoff": "2026-07-07T00:00:00Z"
+    "label": "Argentina 🇦🇷 vs 🇪🇬 Egypt",
+    "note": "Belgium ended the USA's co-host run with a 4-1 win in Seattle (De Ketelaere x2, Vanaken, Lukaku) and will face Spain in the quarter-finals. Next up: Argentina vs Egypt in Atlanta (12pm ET/16:00 UTC), with Switzerland vs Colombia in Vancouver (4pm ET/20:00 UTC) completing the Round of 16 later today.",
+    "kickoff": "2026-07-07T16:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "DR Congo", "Algeria"],
     "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco", "France", "Norway", "Mexico", "England", "Belgium", "USA", "Spain", "Portugal", "Switzerland", "Egypt", "Colombia", "Argentina"],
-    "Quarter-Finals": ["Morocco", "France", "Norway", "England", "Spain"],
+    "Quarter-Finals": ["Morocco", "France", "Norway", "England", "Spain", "Belgium"],
     "Semi-Finals": [],
     "Final": [],
     "Champion": []
@@ -22,7 +22,7 @@
     "Czechia": { "w": 0, "d": 1, "l": 2 },
     "Canada": { "w": 2, "d": 1, "l": 2 },
     "Bosnia & Herzegovina": { "w": 1, "d": 1, "l": 2 },
-    "USA": { "w": 3, "d": 0, "l": 1 },
+    "USA": { "w": 3, "d": 0, "l": 2 },
     "Paraguay": { "w": 2, "d": 1, "l": 2 },
     "Qatar": { "w": 0, "d": 1, "l": 2 },
     "Switzerland": { "w": 3, "d": 1, "l": 0 },
@@ -40,7 +40,7 @@
     "Tunisia": { "w": 0, "d": 0, "l": 3 },
     "Spain": { "w": 4, "d": 1, "l": 0 },
     "Cape Verde": { "w": 0, "d": 3, "l": 1 },
-    "Belgium": { "w": 2, "d": 2, "l": 0 },
+    "Belgium": { "w": 3, "d": 2, "l": 0 },
     "Egypt": { "w": 2, "d": 2, "l": 0 },
     "Iran": { "w": 0, "d": 3, "l": 0 },
     "Saudi Arabia": { "w": 0, "d": 2, "l": 1 },
@@ -73,6 +73,7 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    { "a": "USA", "sa": 1, "b": "Belgium", "sb": 4, "note": "Round of 16" },
     { "a": "Portugal", "sa": 0, "b": "Spain", "sb": 1, "note": "Round of 16" },
     { "a": "Mexico", "sa": 2, "b": "England", "sb": 3, "note": "Round of 16" },
     { "a": "Brazil", "sa": 1, "b": "Norway", "sb": 2, "note": "Round of 16" },

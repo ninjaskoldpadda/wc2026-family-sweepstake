@@ -1,10 +1,10 @@
 {
-  "LAST_SYNC": "Thu 9 July, 06:13 UTC",
+  "LAST_SYNC": "Thu 9 July, 18:15 UTC",
   "STAGE": "Quarter-finals",
   "ELIMINATED": ["Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Ghana", "Cape Verde", "Canada", "Paraguay", "Brazil", "Mexico", "Portugal", "USA", "Egypt", "Colombia"],
   "NEXT_MATCH": {
     "label": "France 🇫🇷 vs 🇲🇦 Morocco",
-    "note": "Quarter-finals kick off TODAY with a rematch of the 2022 semi: France vs Morocco in Boston (4pm ET/20:00 UTC). Then Spain vs Belgium (Jul 10, Los Angeles), Norway vs England (Jul 11, Miami), Argentina vs Switzerland (Jul 11, Kansas City). Switzerland reached their first QF since 1954 by beating Colombia 4-3 on pens.",
+    "note": "Quarter-finals kick off TONIGHT with a rematch of the 2022 semi: France vs Morocco in Boston (4pm ET/20:00 UTC). Then Spain vs Belgium (Jul 10, Los Angeles), Norway vs England (Jul 11, Miami), Argentina vs Switzerland (Jul 11, Kansas City). Switzerland reached their first QF since 1954 by beating Colombia 4-3 on pens.",
     "kickoff": "2026-07-09T20:00:00Z"
   },
   "BRACKET": {
@@ -74,7 +74,7 @@
   },
   "MATCHES": [
     { "a": "Switzerland", "sa": 0, "b": "Colombia", "sb": 0, "note": "Round of 16 · Switzerland won 4-3 on pens" },
-    { "a": "Argentina", "sa": 3, "b": "Egypt", "sb": 2, "note": "Round of 16" },
+    { "a": "Argentina", "sa": 3, "b": "Egypt", "sb": 2, "note": "Round of 16 · Argentina won after extra time" },
     { "a": "USA", "sa": 1, "b": "Belgium", "sb": 4, "note": "Round of 16" },
     { "a": "Portugal", "sa": 0, "b": "Spain", "sb": 1, "note": "Round of 16" },
     { "a": "Mexico", "sa": 2, "b": "England", "sb": 3, "note": "Round of 16" },

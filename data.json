@@ -1,17 +1,17 @@
 {
-  "LAST_SYNC": "Sat 11 July, 18:15 UTC",
-  "STAGE": "Quarter-finals",
-  "ELIMINATED": ["Belgium", "Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Ghana", "Cape Verde", "Canada", "Paraguay", "Brazil", "Mexico", "Portugal", "USA", "Egypt", "Colombia", "Morocco"],
+  "LAST_SYNC": "Sun 12 July, 18:13 UTC",
+  "STAGE": "Semi-finals",
+  "ELIMINATED": ["Belgium", "Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Ghana", "Cape Verde", "Canada", "Paraguay", "Brazil", "Mexico", "Portugal", "USA", "Egypt", "Colombia", "Morocco", "Norway", "Switzerland"],
   "NEXT_MATCH": {
-    "label": "Norway 🇳🇴 vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
-    "note": "Spain snatched it late — Mikel Merino (88') sank Belgium 2-1 in LA after De Ketelaere had cancelled out Fabián Ruiz. Semi-final 1 is set: France vs Spain. Next up: Norway vs England at Hard Rock Stadium, Miami (5pm ET/21:00 UTC), then Argentina vs Switzerland in Kansas City (9pm ET) for the last semi spots.",
-    "kickoff": "2026-07-11T21:00:00Z"
+    "label": "France 🇫🇷 vs 🇪🇸 Spain",
+    "note": "Final four is set. England edged Norway 2-1 in Miami (Bellingham with both goals) and Argentina saw off Switzerland 3-1 after extra time in Kansas City (Julián Álvarez the difference). Semis: France vs Spain (Tue 14 July, AT&T Stadium, Arlington), then England vs Argentina (Wed 15 July, Atlanta). Up first — France vs Spain, 3pm ET/19:00 UTC.",
+    "kickoff": "2026-07-14T19:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "DR Congo", "Algeria"],
     "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco", "France", "Norway", "Mexico", "England", "Belgium", "USA", "Spain", "Portugal", "Switzerland", "Egypt", "Colombia", "Argentina"],
     "Quarter-Finals": ["Morocco", "France", "Norway", "England", "Spain", "Belgium", "Argentina", "Switzerland"],
-    "Semi-Finals": ["France", "Spain"],
+    "Semi-Finals": ["France", "Spain", "England", "Argentina"],
     "Final": [],
     "Champion": []
   },
@@ -25,7 +25,7 @@
     "USA": { "w": 3, "d": 0, "l": 2 },
     "Paraguay": { "w": 2, "d": 1, "l": 2 },
     "Qatar": { "w": 0, "d": 1, "l": 2 },
-    "Switzerland": { "w": 4, "d": 1, "l": 0 },
+    "Switzerland": { "w": 4, "d": 1, "l": 1 },
     "Brazil": { "w": 3, "d": 1, "l": 1 },
     "Morocco": { "w": 4, "d": 1, "l": 1 },
     "Scotland": { "w": 1, "d": 0, "l": 2 },
@@ -47,15 +47,15 @@
     "Uruguay": { "w": 0, "d": 2, "l": 1 },
     "France": { "w": 6, "d": 0, "l": 0 },
     "Senegal": { "w": 1, "d": 0, "l": 3 },
-    "Norway": { "w": 4, "d": 0, "l": 1 },
+    "Norway": { "w": 4, "d": 0, "l": 2 },
     "Iraq": { "w": 0, "d": 0, "l": 3 },
-    "Argentina": { "w": 5, "d": 0, "l": 0 },
+    "Argentina": { "w": 6, "d": 0, "l": 0 },
     "Algeria": { "w": 1, "d": 0, "l": 3 },
     "Austria": { "w": 2, "d": 0, "l": 2 },
     "Jordan": { "w": 0, "d": 0, "l": 3 },
     "Portugal": { "w": 2, "d": 1, "l": 2 },
     "DR Congo": { "w": 0, "d": 1, "l": 3 },
-    "England": { "w": 4, "d": 1, "l": 0 },
+    "England": { "w": 5, "d": 1, "l": 0 },
     "Croatia": { "w": 2, "d": 0, "l": 2 },
     "Ghana": { "w": 1, "d": 1, "l": 2 },
     "Panama": { "w": 0, "d": 0, "l": 3 },
@@ -73,6 +73,8 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    { "a": "Argentina", "sa": 3, "b": "Switzerland", "sb": 1, "note": "Quarter-final · Argentina won after extra time" },
+    { "a": "Norway", "sa": 1, "b": "England", "sb": 2, "note": "Quarter-final" },
     { "a": "Spain", "sa": 2, "b": "Belgium", "sb": 1, "note": "Quarter-final" },
     { "a": "France", "sa": 2, "b": "Morocco", "sb": 0, "note": "Quarter-final" },
     { "a": "Switzerland", "sa": 0, "b": "Colombia", "sb": 0, "note": "Round of 16 · Switzerland won 4-3 on pens" },

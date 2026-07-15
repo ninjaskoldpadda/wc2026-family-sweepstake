@@ -1,18 +1,18 @@
 {
-  "LAST_SYNC": "Wed 15 July, 18:13 UTC",
-  "STAGE": "Semi-finals",
-  "ELIMINATED": ["Belgium", "Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Ghana", "Cape Verde", "Canada", "Paraguay", "Brazil", "Mexico", "Portugal", "USA", "Egypt", "Colombia", "Morocco", "Norway", "Switzerland", "France"],
+  "LAST_SYNC": "Thu 16 July, 08:00 UTC",
+  "STAGE": "Final",
+  "ELIMINATED": ["Belgium", "Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Ghana", "Cape Verde", "Canada", "Paraguay", "Brazil", "Mexico", "Portugal", "USA", "Egypt", "Colombia", "Morocco", "Norway", "Switzerland", "France", "England"],
   "NEXT_MATCH": {
-    "label": "England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs 🇦🇷 Argentina",
-    "note": "Spain are through to the final — Oyarzabal (penalty) and Porro (58') sank France 2-0 in Arlington. Now the other semi: England vs Argentina, first meeting in 21 years, Wed 15 July at Mercedes-Benz Stadium, Atlanta, 3pm ET/19:00 UTC. Winner faces Spain in Sunday's final at New York New Jersey Stadium.",
-    "kickoff": "2026-07-15T19:00:00Z"
+    "label": "France 🇫🇷 vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
+    "note": "Argentina broke English hearts in Atlanta — Gordon put England ahead (55'), but Enzo Fernández struck twice late (85', 90'+), the winner headed in from a Messi cross. It's Spain vs Argentina in Sunday's final. First though: France vs England play off for third, Sat 18 July at Miami Stadium, 5pm ET/21:00 UTC — the bronze bonus (+3) is still on the table.",
+    "kickoff": "2026-07-18T21:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "DR Congo", "Algeria"],
     "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco", "France", "Norway", "Mexico", "England", "Belgium", "USA", "Spain", "Portugal", "Switzerland", "Egypt", "Colombia", "Argentina"],
     "Quarter-Finals": ["Morocco", "France", "Norway", "England", "Spain", "Belgium", "Argentina", "Switzerland"],
     "Semi-Finals": ["France", "Spain", "England", "Argentina"],
-    "Final": ["Spain"],
+    "Final": ["Spain", "Argentina"],
     "Champion": []
   },
   "RESULTS": {
@@ -49,13 +49,13 @@
     "Senegal": { "w": 1, "d": 0, "l": 3 },
     "Norway": { "w": 4, "d": 0, "l": 2 },
     "Iraq": { "w": 0, "d": 0, "l": 3 },
-    "Argentina": { "w": 6, "d": 0, "l": 0 },
+    "Argentina": { "w": 7, "d": 0, "l": 0 },
     "Algeria": { "w": 1, "d": 0, "l": 3 },
     "Austria": { "w": 2, "d": 0, "l": 2 },
     "Jordan": { "w": 0, "d": 0, "l": 3 },
     "Portugal": { "w": 2, "d": 1, "l": 2 },
     "DR Congo": { "w": 0, "d": 1, "l": 3 },
-    "England": { "w": 5, "d": 1, "l": 0 },
+    "England": { "w": 5, "d": 1, "l": 1 },
     "Croatia": { "w": 2, "d": 0, "l": 2 },
     "Ghana": { "w": 1, "d": 1, "l": 2 },
     "Panama": { "w": 0, "d": 0, "l": 3 },
@@ -73,6 +73,7 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    { "a": "England", "sa": 1, "b": "Argentina", "sb": 2, "note": "Semi-final" },
     { "a": "France", "sa": 0, "b": "Spain", "sb": 2, "note": "Semi-final" },
     { "a": "Argentina", "sa": 3, "b": "Switzerland", "sb": 1, "note": "Quarter-final · Argentina won after extra time" },
     { "a": "Norway", "sa": 1, "b": "England", "sb": 2, "note": "Quarter-final" },

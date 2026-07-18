@@ -1,11 +1,11 @@
 {
-  "LAST_SYNC": "Sat 18 July, 21:41 UTC",
+  "LAST_SYNC": "Sat 18 July, 23:13 UTC",
   "STAGE": "Final",
   "ELIMINATED": ["Belgium", "Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Ghana", "Cape Verde", "Canada", "Paraguay", "Brazil", "Mexico", "Portugal", "USA", "Egypt", "Colombia", "Morocco", "Norway", "Switzerland", "France", "England"],
   "NEXT_MATCH": {
-    "label": "France 🇫🇷 vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
-    "note": "UNDERWAY NOW at Hard Rock Stadium, Miami — France vs England playing off for third place and the bronze bonus (+3). Score will appear here once it's full-time. Then it's the big one: Spain vs Argentina in Sunday's final.",
-    "kickoff": "2026-07-18T21:00:00Z"
+    "label": "Spain 🇪🇸 vs 🇦🇷 Argentina",
+    "note": "THE FINAL — MetLife Stadium, East Rutherford, New Jersey. Spain (unbeaten) vs Argentina (7 wins from 7) for the title. Champion is worth +10 to the owner, runner-up +5. England took the bronze (+3) in a wild 6-4 win over France — Saka hat-trick, two more for Mbappé.",
+    "kickoff": "2026-07-19T19:00:00Z"
   },
   "BRACKET": {
     "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "DR Congo", "Algeria"],
@@ -45,7 +45,7 @@
     "Iran": { "w": 0, "d": 3, "l": 0 },
     "Saudi Arabia": { "w": 0, "d": 2, "l": 1 },
     "Uruguay": { "w": 0, "d": 2, "l": 1 },
-    "France": { "w": 6, "d": 0, "l": 1 },
+    "France": { "w": 6, "d": 0, "l": 2 },
     "Senegal": { "w": 1, "d": 0, "l": 3 },
     "Norway": { "w": 4, "d": 0, "l": 2 },
     "Iraq": { "w": 0, "d": 0, "l": 3 },
@@ -55,7 +55,7 @@
     "Jordan": { "w": 0, "d": 0, "l": 3 },
     "Portugal": { "w": 2, "d": 1, "l": 2 },
     "DR Congo": { "w": 0, "d": 1, "l": 3 },
-    "England": { "w": 5, "d": 1, "l": 1 },
+    "England": { "w": 6, "d": 1, "l": 1 },
     "Croatia": { "w": 2, "d": 0, "l": 2 },
     "Ghana": { "w": 1, "d": 1, "l": 2 },
     "Panama": { "w": 0, "d": 0, "l": 3 },
@@ -65,7 +65,7 @@
   "AWARDS": {
     "champion": null,
     "runnerUp": null,
-    "third": null,
+    "third": "England",
     "goldenBoot": null,
     "playerOfTournament": null,
     "bestGoalkeeper": null,
@@ -73,6 +73,7 @@
     "mostGoalsConceded": null
   },
   "MATCHES": [
+    { "a": "France", "sa": 4, "b": "England", "sb": 6, "note": "Third-place play-off · Saka hat-trick" },
     { "a": "England", "sa": 1, "b": "Argentina", "sb": 2, "note": "Semi-final" },
     { "a": "France", "sa": 0, "b": "Spain", "sb": 2, "note": "Semi-final" },
     { "a": "Argentina", "sa": 3, "b": "Switzerland", "sb": 1, "note": "Quarter-final · Argentina won after extra time" },

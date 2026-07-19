@@ -1,180 +1,1099 @@
 {
-  "LAST_SYNC": "Sun 19 July, 18:13 UTC",
-  "STAGE": "Final",
-  "ELIMINATED": ["Belgium", "Turkey", "Tunisia", "Jordan", "Qatar", "Czechia", "Iraq", "Uruguay", "Saudi Arabia", "Scotland", "Uzbekistan", "Panama", "Iran", "South Korea", "South Africa", "Japan", "Germany", "Netherlands", "Ivory Coast", "Sweden", "Ecuador", "DR Congo", "Senegal", "Bosnia & Herzegovina", "Austria", "Croatia", "Algeria", "Australia", "Ghana", "Cape Verde", "Canada", "Paraguay", "Brazil", "Mexico", "Portugal", "USA", "Egypt", "Colombia", "Morocco", "Norway", "Switzerland", "France", "England"],
-  "NEXT_MATCH": {
-    "label": "Spain 🇪🇸 vs 🇦🇷 Argentina",
-    "note": "THE FINAL — MetLife Stadium, East Rutherford, New Jersey. Spain (unbeaten) vs Argentina (7 wins from 7) for the title. Champion is worth +10 to the owner, runner-up +5. England took the bronze (+3) in a wild 6-4 win over France — Saka hat-trick, two more for Mbappé.",
-    "kickoff": "2026-07-19T19:00:00Z"
-  },
+  "LAST_SYNC": "Sun 19 July, 22:45 UTC — FULL TIME, FOREVER",
+  "STAGE": "Tournament complete — Spain are World Champions",
+  "ELIMINATED": [
+    "Belgium",
+    "Turkey",
+    "Tunisia",
+    "Jordan",
+    "Qatar",
+    "Czechia",
+    "Iraq",
+    "Uruguay",
+    "Saudi Arabia",
+    "Scotland",
+    "Uzbekistan",
+    "Panama",
+    "Iran",
+    "South Korea",
+    "South Africa",
+    "Japan",
+    "Germany",
+    "Netherlands",
+    "Ivory Coast",
+    "Sweden",
+    "Ecuador",
+    "DR Congo",
+    "Senegal",
+    "Bosnia & Herzegovina",
+    "Austria",
+    "Croatia",
+    "Algeria",
+    "Australia",
+    "Ghana",
+    "Cape Verde",
+    "Canada",
+    "Paraguay",
+    "Brazil",
+    "Mexico",
+    "Portugal",
+    "USA",
+    "Egypt",
+    "Colombia",
+    "Morocco",
+    "Norway",
+    "Switzerland",
+    "France",
+    "England",
+    "Argentina"
+  ],
+  "NEXT_MATCH": null,
   "BRACKET": {
-    "Round of 32": ["Mexico", "USA", "Germany", "France", "Netherlands", "Brazil", "Switzerland", "Belgium", "Spain", "Argentina", "Colombia", "England", "South Africa", "Australia", "Ivory Coast", "Norway", "Japan", "Morocco", "Canada", "Egypt", "Cape Verde", "Austria", "Portugal", "Croatia", "Bosnia & Herzegovina", "Ecuador", "Sweden", "Paraguay", "Ghana", "Senegal", "DR Congo", "Algeria"],
-    "Round of 16": ["Canada", "Brazil", "Paraguay", "Morocco", "France", "Norway", "Mexico", "England", "Belgium", "USA", "Spain", "Portugal", "Switzerland", "Egypt", "Colombia", "Argentina"],
-    "Quarter-Finals": ["Morocco", "France", "Norway", "England", "Spain", "Belgium", "Argentina", "Switzerland"],
-    "Semi-Finals": ["France", "Spain", "England", "Argentina"],
-    "Final": ["Spain", "Argentina"],
-    "Champion": []
+    "Round of 32": [
+      "Mexico",
+      "USA",
+      "Germany",
+      "France",
+      "Netherlands",
+      "Brazil",
+      "Switzerland",
+      "Belgium",
+      "Spain",
+      "Argentina",
+      "Colombia",
+      "England",
+      "South Africa",
+      "Australia",
+      "Ivory Coast",
+      "Norway",
+      "Japan",
+      "Morocco",
+      "Canada",
+      "Egypt",
+      "Cape Verde",
+      "Austria",
+      "Portugal",
+      "Croatia",
+      "Bosnia & Herzegovina",
+      "Ecuador",
+      "Sweden",
+      "Paraguay",
+      "Ghana",
+      "Senegal",
+      "DR Congo",
+      "Algeria"
+    ],
+    "Round of 16": [
+      "Canada",
+      "Brazil",
+      "Paraguay",
+      "Morocco",
+      "France",
+      "Norway",
+      "Mexico",
+      "England",
+      "Belgium",
+      "USA",
+      "Spain",
+      "Portugal",
+      "Switzerland",
+      "Egypt",
+      "Colombia",
+      "Argentina"
+    ],
+    "Quarter-Finals": [
+      "Morocco",
+      "France",
+      "Norway",
+      "England",
+      "Spain",
+      "Belgium",
+      "Argentina",
+      "Switzerland"
+    ],
+    "Semi-Finals": [
+      "France",
+      "Spain",
+      "England",
+      "Argentina"
+    ],
+    "Final": [
+      "Spain",
+      "Argentina"
+    ],
+    "Champion": [
+      "Spain"
+    ]
   },
   "RESULTS": {
-    "Mexico": { "w": 4, "d": 0, "l": 1 },
-    "South Africa": { "w": 1, "d": 1, "l": 2 },
-    "South Korea": { "w": 1, "d": 0, "l": 2 },
-    "Czechia": { "w": 0, "d": 1, "l": 2 },
-    "Canada": { "w": 2, "d": 1, "l": 2 },
-    "Bosnia & Herzegovina": { "w": 1, "d": 1, "l": 2 },
-    "USA": { "w": 3, "d": 0, "l": 2 },
-    "Paraguay": { "w": 2, "d": 1, "l": 2 },
-    "Qatar": { "w": 0, "d": 1, "l": 2 },
-    "Switzerland": { "w": 4, "d": 1, "l": 1 },
-    "Brazil": { "w": 3, "d": 1, "l": 1 },
-    "Morocco": { "w": 4, "d": 1, "l": 1 },
-    "Scotland": { "w": 1, "d": 0, "l": 2 },
-    "Australia": { "w": 1, "d": 2, "l": 1 },
-    "Turkey": { "w": 1, "d": 0, "l": 2 },
-    "Germany": { "w": 2, "d": 1, "l": 1 },
-    "Netherlands": { "w": 2, "d": 2, "l": 0 },
-    "Japan": { "w": 1, "d": 2, "l": 1 },
-    "Ivory Coast": { "w": 2, "d": 0, "l": 2 },
-    "Ecuador": { "w": 1, "d": 1, "l": 2 },
-    "Sweden": { "w": 1, "d": 1, "l": 2 },
-    "Tunisia": { "w": 0, "d": 0, "l": 3 },
-    "Spain": { "w": 6, "d": 1, "l": 0 },
-    "Cape Verde": { "w": 0, "d": 3, "l": 1 },
-    "Belgium": { "w": 3, "d": 2, "l": 1 },
-    "Egypt": { "w": 2, "d": 2, "l": 1 },
-    "Iran": { "w": 0, "d": 3, "l": 0 },
-    "Saudi Arabia": { "w": 0, "d": 2, "l": 1 },
-    "Uruguay": { "w": 0, "d": 2, "l": 1 },
-    "France": { "w": 6, "d": 0, "l": 2 },
-    "Senegal": { "w": 1, "d": 0, "l": 3 },
-    "Norway": { "w": 4, "d": 0, "l": 2 },
-    "Iraq": { "w": 0, "d": 0, "l": 3 },
-    "Argentina": { "w": 7, "d": 0, "l": 0 },
-    "Algeria": { "w": 1, "d": 0, "l": 3 },
-    "Austria": { "w": 2, "d": 0, "l": 2 },
-    "Jordan": { "w": 0, "d": 0, "l": 3 },
-    "Portugal": { "w": 2, "d": 1, "l": 2 },
-    "DR Congo": { "w": 0, "d": 1, "l": 3 },
-    "England": { "w": 6, "d": 1, "l": 1 },
-    "Croatia": { "w": 2, "d": 0, "l": 2 },
-    "Ghana": { "w": 1, "d": 1, "l": 2 },
-    "Panama": { "w": 0, "d": 0, "l": 3 },
-    "Colombia": { "w": 4, "d": 1, "l": 0 },
-    "Uzbekistan": { "w": 1, "d": 0, "l": 2 }
+    "Mexico": {
+      "w": 4,
+      "d": 0,
+      "l": 1
+    },
+    "South Africa": {
+      "w": 1,
+      "d": 1,
+      "l": 2
+    },
+    "South Korea": {
+      "w": 1,
+      "d": 0,
+      "l": 2
+    },
+    "Czechia": {
+      "w": 0,
+      "d": 1,
+      "l": 2
+    },
+    "Canada": {
+      "w": 2,
+      "d": 1,
+      "l": 2
+    },
+    "Bosnia & Herzegovina": {
+      "w": 1,
+      "d": 1,
+      "l": 2
+    },
+    "USA": {
+      "w": 3,
+      "d": 0,
+      "l": 2
+    },
+    "Paraguay": {
+      "w": 2,
+      "d": 1,
+      "l": 2
+    },
+    "Qatar": {
+      "w": 0,
+      "d": 1,
+      "l": 2
+    },
+    "Switzerland": {
+      "w": 4,
+      "d": 1,
+      "l": 1
+    },
+    "Brazil": {
+      "w": 3,
+      "d": 1,
+      "l": 1
+    },
+    "Morocco": {
+      "w": 4,
+      "d": 1,
+      "l": 1
+    },
+    "Scotland": {
+      "w": 1,
+      "d": 0,
+      "l": 2
+    },
+    "Australia": {
+      "w": 1,
+      "d": 2,
+      "l": 1
+    },
+    "Turkey": {
+      "w": 1,
+      "d": 0,
+      "l": 2
+    },
+    "Germany": {
+      "w": 2,
+      "d": 1,
+      "l": 1
+    },
+    "Netherlands": {
+      "w": 2,
+      "d": 2,
+      "l": 0
+    },
+    "Japan": {
+      "w": 1,
+      "d": 2,
+      "l": 1
+    },
+    "Ivory Coast": {
+      "w": 2,
+      "d": 0,
+      "l": 2
+    },
+    "Ecuador": {
+      "w": 1,
+      "d": 1,
+      "l": 2
+    },
+    "Sweden": {
+      "w": 1,
+      "d": 1,
+      "l": 2
+    },
+    "Tunisia": {
+      "w": 0,
+      "d": 0,
+      "l": 3
+    },
+    "Spain": {
+      "w": 7,
+      "d": 1,
+      "l": 0
+    },
+    "Cape Verde": {
+      "w": 0,
+      "d": 3,
+      "l": 1
+    },
+    "Belgium": {
+      "w": 3,
+      "d": 2,
+      "l": 1
+    },
+    "Egypt": {
+      "w": 2,
+      "d": 2,
+      "l": 1
+    },
+    "Iran": {
+      "w": 0,
+      "d": 3,
+      "l": 0
+    },
+    "Saudi Arabia": {
+      "w": 0,
+      "d": 2,
+      "l": 1
+    },
+    "Uruguay": {
+      "w": 0,
+      "d": 2,
+      "l": 1
+    },
+    "France": {
+      "w": 6,
+      "d": 0,
+      "l": 2
+    },
+    "Senegal": {
+      "w": 1,
+      "d": 0,
+      "l": 3
+    },
+    "Norway": {
+      "w": 4,
+      "d": 0,
+      "l": 2
+    },
+    "Iraq": {
+      "w": 0,
+      "d": 0,
+      "l": 3
+    },
+    "Argentina": {
+      "w": 7,
+      "d": 0,
+      "l": 1
+    },
+    "Algeria": {
+      "w": 1,
+      "d": 0,
+      "l": 3
+    },
+    "Austria": {
+      "w": 2,
+      "d": 0,
+      "l": 2
+    },
+    "Jordan": {
+      "w": 0,
+      "d": 0,
+      "l": 3
+    },
+    "Portugal": {
+      "w": 2,
+      "d": 1,
+      "l": 2
+    },
+    "DR Congo": {
+      "w": 0,
+      "d": 1,
+      "l": 3
+    },
+    "England": {
+      "w": 6,
+      "d": 1,
+      "l": 1
+    },
+    "Croatia": {
+      "w": 2,
+      "d": 0,
+      "l": 2
+    },
+    "Ghana": {
+      "w": 1,
+      "d": 1,
+      "l": 2
+    },
+    "Panama": {
+      "w": 0,
+      "d": 0,
+      "l": 3
+    },
+    "Colombia": {
+      "w": 4,
+      "d": 1,
+      "l": 0
+    },
+    "Uzbekistan": {
+      "w": 1,
+      "d": 0,
+      "l": 2
+    }
   },
   "AWARDS": {
-    "champion": null,
-    "runnerUp": null,
+    "champion": "Spain",
+    "runnerUp": "Argentina",
     "third": "England",
-    "goldenBoot": null,
-    "playerOfTournament": null,
-    "bestGoalkeeper": null,
-    "mostYellowCards": null,
-    "mostGoalsConceded": null
+    "goldenBoot": "France",
+    "playerOfTournament": "Argentina",
+    "bestGoalkeeper": "Spain",
+    "mostYellowCards": "Argentina",
+    "mostGoalsConceded": [
+      "England",
+      "Iraq",
+      "Tunisia"
+    ]
   },
   "MATCHES": [
-    { "a": "France", "sa": 4, "b": "England", "sb": 6, "note": "Third-place play-off · Saka hat-trick" },
-    { "a": "England", "sa": 1, "b": "Argentina", "sb": 2, "note": "Semi-final" },
-    { "a": "France", "sa": 0, "b": "Spain", "sb": 2, "note": "Semi-final" },
-    { "a": "Argentina", "sa": 3, "b": "Switzerland", "sb": 1, "note": "Quarter-final · Argentina won after extra time" },
-    { "a": "Norway", "sa": 1, "b": "England", "sb": 2, "note": "Quarter-final" },
-    { "a": "Spain", "sa": 2, "b": "Belgium", "sb": 1, "note": "Quarter-final" },
-    { "a": "France", "sa": 2, "b": "Morocco", "sb": 0, "note": "Quarter-final" },
-    { "a": "Switzerland", "sa": 0, "b": "Colombia", "sb": 0, "note": "Round of 16 · Switzerland won 4-3 on pens" },
-    { "a": "Argentina", "sa": 3, "b": "Egypt", "sb": 2, "note": "Round of 16 · Argentina won after extra time" },
-    { "a": "USA", "sa": 1, "b": "Belgium", "sb": 4, "note": "Round of 16" },
-    { "a": "Portugal", "sa": 0, "b": "Spain", "sb": 1, "note": "Round of 16" },
-    { "a": "Mexico", "sa": 2, "b": "England", "sb": 3, "note": "Round of 16" },
-    { "a": "Brazil", "sa": 1, "b": "Norway", "sb": 2, "note": "Round of 16" },
-    { "a": "Paraguay", "sa": 0, "b": "France", "sb": 1, "note": "Round of 16" },
-    { "a": "Canada", "sa": 0, "b": "Morocco", "sb": 3, "note": "Round of 16" },
-    { "a": "Colombia", "sa": 1, "b": "Ghana", "sb": 0, "note": "Round of 32" },
-    { "a": "Argentina", "sa": 3, "b": "Cape Verde", "sb": 2, "note": "Round of 32 · Argentina won after extra time" },
-    { "a": "Egypt", "sa": 1, "b": "Australia", "sb": 1, "note": "Round of 32 · Egypt won 4-2 on pens" },
-    { "a": "Switzerland", "sa": 2, "b": "Algeria", "sb": 0, "note": "Round of 32" },
-    { "a": "Portugal", "sa": 2, "b": "Croatia", "sb": 1, "note": "Round of 32" },
-    { "a": "Spain", "sa": 3, "b": "Austria", "sb": 0, "note": "Round of 32" },
-    { "a": "USA", "sa": 2, "b": "Bosnia & Herzegovina", "sb": 0, "note": "Round of 32" },
-    { "a": "Belgium", "sa": 3, "b": "Senegal", "sb": 2, "note": "Round of 32 · Belgium won after extra time" },
-    { "a": "England", "sa": 2, "b": "DR Congo", "sb": 1, "note": "Round of 32" },
-    { "a": "Mexico", "sa": 2, "b": "Ecuador", "sb": 0, "note": "Round of 32" },
-    { "a": "France", "sa": 3, "b": "Sweden", "sb": 0, "note": "Round of 32" },
-    { "a": "Ivory Coast", "sa": 1, "b": "Norway", "sb": 2, "note": "Round of 32" },
-    { "a": "Netherlands", "sa": 1, "b": "Morocco", "sb": 1, "note": "Round of 32 · Morocco won 3-2 on pens" },
-    { "a": "Germany", "sa": 1, "b": "Paraguay", "sb": 1, "note": "Round of 32 · Paraguay won 4-3 on pens" },
-    { "a": "Brazil", "sa": 2, "b": "Japan", "sb": 1, "note": "Round of 32" },
-    { "a": "South Africa", "sa": 0, "b": "Canada", "sb": 1, "note": "Round of 32" },
-    { "a": "Argentina", "sa": 2, "b": "Jordan", "sb": 0, "note": "Matchday 3" },
-    { "a": "Austria", "sa": 2, "b": "Algeria", "sb": 1, "note": "Matchday 3" },
-    { "a": "Colombia", "sa": 1, "b": "Portugal", "sb": 0, "note": "Matchday 3" },
-    { "a": "DR Congo", "sa": 0, "b": "Uzbekistan", "sb": 1, "note": "Matchday 3" },
-    { "a": "England", "sa": 2, "b": "Panama", "sb": 0, "note": "Matchday 3" },
-    { "a": "Croatia", "sa": 2, "b": "Ghana", "sb": 1, "note": "Matchday 3" },
-    { "a": "Spain", "sa": 1, "b": "Uruguay", "sb": 0, "note": "Matchday 3" },
-    { "a": "Cape Verde", "sa": 0, "b": "Saudi Arabia", "sb": 0, "note": "Matchday 3" },
-    { "a": "Belgium", "sa": 5, "b": "New Zealand", "sb": 1, "note": "Matchday 3" },
-    { "a": "Egypt", "sa": 1, "b": "Iran", "sb": 1, "note": "Matchday 3" },
-    { "a": "Norway", "sa": 1, "b": "France", "sb": 4, "note": "Matchday 3" },
-    { "a": "Senegal", "sa": 5, "b": "Iraq", "sb": 0, "note": "Matchday 3" },
-    { "a": "Netherlands", "sa": 3, "b": "Tunisia", "sb": 1, "note": "Matchday 3" },
-    { "a": "Japan", "sa": 1, "b": "Sweden", "sb": 1, "note": "Matchday 3" },
-    { "a": "Turkey", "sa": 3, "b": "USA", "sb": 2, "note": "Matchday 3" },
-    { "a": "Paraguay", "sa": 0, "b": "Australia", "sb": 0, "note": "Matchday 3" },
-    { "a": "Ecuador", "sa": 2, "b": "Germany", "sb": 1, "note": "Matchday 3" },
-    { "a": "Ivory Coast", "sa": 2, "b": "Curaçao", "sb": 0, "note": "Matchday 3" },
-    { "a": "South Africa", "sa": 1, "b": "South Korea", "sb": 0, "note": "Matchday 3" },
-    { "a": "Mexico", "sa": 3, "b": "Czechia", "sb": 0, "note": "Matchday 3" },
-    { "a": "Brazil", "sa": 3, "b": "Scotland", "sb": 0, "note": "Matchday 3" },
-    { "a": "Morocco", "sa": 4, "b": "Haiti", "sb": 2, "note": "Matchday 3" },
-    { "a": "Switzerland", "sa": 2, "b": "Canada", "sb": 1, "note": "Matchday 3" },
-    { "a": "Bosnia & Herzegovina", "sa": 3, "b": "Qatar", "sb": 1, "note": "Matchday 3" },
-    { "a": "Colombia", "sa": 1, "b": "DR Congo", "sb": 0, "note": "Matchday 2" },
-    { "a": "Croatia", "sa": 1, "b": "Panama", "sb": 0, "note": "Matchday 2" },
-    { "a": "England", "sa": 0, "b": "Ghana", "sb": 0, "note": "Matchday 2" },
-    { "a": "Portugal", "sa": 5, "b": "Uzbekistan", "sb": 0, "note": "Matchday 2" },
-    { "a": "Algeria", "sa": 2, "b": "Jordan", "sb": 1, "note": "Matchday 2" },
-    { "a": "France", "sa": 3, "b": "Iraq", "sb": 0, "note": "Matchday 2" },
-    { "a": "Norway", "sa": 3, "b": "Senegal", "sb": 2, "note": "Matchday 2" },
-    { "a": "Argentina", "sa": 2, "b": "Austria", "sb": 0, "note": "Matchday 2" },
-    { "a": "Egypt", "sa": 3, "b": "New Zealand", "sb": 1, "note": "Matchday 2" },
-    { "a": "Uruguay", "sa": 2, "b": "Cape Verde", "sb": 2, "note": "Matchday 2" },
-    { "a": "Belgium", "sa": 0, "b": "Iran", "sb": 0, "note": "Matchday 2" },
-    { "a": "Spain", "sa": 4, "b": "Saudi Arabia", "sb": 0, "note": "Matchday 2" },
-    { "a": "Tunisia", "sa": 0, "b": "Japan", "sb": 4, "note": "Matchday 2" },
-    { "a": "Ecuador", "sa": 0, "b": "Curaçao", "sb": 0, "note": "Matchday 2" },
-    { "a": "Germany", "sa": 2, "b": "Ivory Coast", "sb": 1, "note": "Matchday 2" },
-    { "a": "Netherlands", "sa": 5, "b": "Sweden", "sb": 1, "note": "Matchday 2" },
-    { "a": "Turkey", "sa": 0, "b": "Paraguay", "sb": 1, "note": "Matchday 2" },
-    { "a": "Brazil", "sa": 3, "b": "Haiti", "sb": 0, "note": "Matchday 2" },
-    { "a": "Scotland", "sa": 0, "b": "Morocco", "sb": 1, "note": "Matchday 2" },
-    { "a": "USA", "sa": 2, "b": "Australia", "sb": 0, "note": "Matchday 2" },
-    { "a": "Mexico", "sa": 1, "b": "South Korea", "sb": 0, "note": "Matchday 2" },
-    { "a": "Canada", "sa": 6, "b": "Qatar", "sb": 0, "note": "Matchday 2" },
-    { "a": "Switzerland", "sa": 4, "b": "Bosnia & Herzegovina", "sb": 1, "note": "Matchday 2" },
-    { "a": "Czechia", "sa": 1, "b": "South Africa", "sb": 1, "note": "Matchday 2" },
-    { "a": "Uzbekistan", "sa": 1, "b": "Colombia", "sb": 3, "note": "Matchday 1" },
-    { "a": "England", "sa": 4, "b": "Croatia", "sb": 2, "note": "Matchday 1" },
-    { "a": "Portugal", "sa": 1, "b": "DR Congo", "sb": 1, "note": "Matchday 1" },
-    { "a": "Ghana", "sa": 1, "b": "Panama", "sb": 0, "note": "Matchday 1" },
-    { "a": "Austria", "sa": 3, "b": "Jordan", "sb": 1, "note": "Matchday 1" },
-    { "a": "Argentina", "sa": 3, "b": "Algeria", "sb": 0, "note": "Matchday 1" },
-    { "a": "Iraq", "sa": 1, "b": "Norway", "sb": 4, "note": "Matchday 1" },
-    { "a": "France", "sa": 3, "b": "Senegal", "sb": 1, "note": "Matchday 1" },
-    { "a": "Iran", "sa": 2, "b": "New Zealand", "sb": 2, "note": "Matchday 1" },
-    { "a": "Saudi Arabia", "sa": 1, "b": "Uruguay", "sb": 1, "note": "Matchday 1" },
-    { "a": "Belgium", "sa": 1, "b": "Egypt", "sb": 1, "note": "Matchday 1" },
-    { "a": "Spain", "sa": 0, "b": "Cape Verde", "sb": 0, "note": "Matchday 1" },
-    { "a": "Sweden", "sa": 5, "b": "Tunisia", "sb": 1, "note": "Matchday 1" },
-    { "a": "Ivory Coast", "sa": 1, "b": "Ecuador", "sb": 0, "note": "Matchday 1" },
-    { "a": "Netherlands", "sa": 2, "b": "Japan", "sb": 2, "note": "Matchday 1" },
-    { "a": "Germany", "sa": 7, "b": "Curaçao", "sb": 1, "note": "Matchday 1" },
-    { "a": "Australia", "sa": 2, "b": "Turkey", "sb": 0, "note": "Matchday 1" },
-    { "a": "Haiti", "sa": 0, "b": "Scotland", "sb": 1, "note": "Matchday 1" },
-    { "a": "Brazil", "sa": 1, "b": "Morocco", "sb": 1, "note": "Matchday 1" },
-    { "a": "Qatar", "sa": 1, "b": "Switzerland", "sb": 1, "note": "Matchday 1" },
-    { "a": "USA", "sa": 4, "b": "Paraguay", "sb": 1, "note": "Matchday 1" },
-    { "a": "Canada", "sa": 1, "b": "Bosnia & Herzegovina", "sb": 1, "note": "Matchday 1" },
-    { "a": "South Korea", "sa": 2, "b": "Czechia", "sb": 1, "note": "Matchday 1" },
-    { "a": "Mexico", "sa": 2, "b": "South Africa", "sb": 0, "note": "Matchday 1 · Opening match" }
+    {
+      "a": "Spain",
+      "sa": 1,
+      "b": "Argentina",
+      "sb": 0,
+      "note": "THE FINAL · Ferran Torres 106' wins it in extra time — Spain are champions of the world"
+    },
+    {
+      "a": "France",
+      "sa": 4,
+      "b": "England",
+      "sb": 6,
+      "note": "Third-place play-off · Saka hat-trick"
+    },
+    {
+      "a": "England",
+      "sa": 1,
+      "b": "Argentina",
+      "sb": 2,
+      "note": "Semi-final"
+    },
+    {
+      "a": "France",
+      "sa": 0,
+      "b": "Spain",
+      "sb": 2,
+      "note": "Semi-final"
+    },
+    {
+      "a": "Argentina",
+      "sa": 3,
+      "b": "Switzerland",
+      "sb": 1,
+      "note": "Quarter-final · Argentina won after extra time"
+    },
+    {
+      "a": "Norway",
+      "sa": 1,
+      "b": "England",
+      "sb": 2,
+      "note": "Quarter-final"
+    },
+    {
+      "a": "Spain",
+      "sa": 2,
+      "b": "Belgium",
+      "sb": 1,
+      "note": "Quarter-final"
+    },
+    {
+      "a": "France",
+      "sa": 2,
+      "b": "Morocco",
+      "sb": 0,
+      "note": "Quarter-final"
+    },
+    {
+      "a": "Switzerland",
+      "sa": 0,
+      "b": "Colombia",
+      "sb": 0,
+      "note": "Round of 16 · Switzerland won 4-3 on pens"
+    },
+    {
+      "a": "Argentina",
+      "sa": 3,
+      "b": "Egypt",
+      "sb": 2,
+      "note": "Round of 16 · Argentina won after extra time"
+    },
+    {
+      "a": "USA",
+      "sa": 1,
+      "b": "Belgium",
+      "sb": 4,
+      "note": "Round of 16"
+    },
+    {
+      "a": "Portugal",
+      "sa": 0,
+      "b": "Spain",
+      "sb": 1,
+      "note": "Round of 16"
+    },
+    {
+      "a": "Mexico",
+      "sa": 2,
+      "b": "England",
+      "sb": 3,
+      "note": "Round of 16"
+    },
+    {
+      "a": "Brazil",
+      "sa": 1,
+      "b": "Norway",
+      "sb": 2,
+      "note": "Round of 16"
+    },
+    {
+      "a": "Paraguay",
+      "sa": 0,
+      "b": "France",
+      "sb": 1,
+      "note": "Round of 16"
+    },
+    {
+      "a": "Canada",
+      "sa": 0,
+      "b": "Morocco",
+      "sb": 3,
+      "note": "Round of 16"
+    },
+    {
+      "a": "Colombia",
+      "sa": 1,
+      "b": "Ghana",
+      "sb": 0,
+      "note": "Round of 32"
+    },
+    {
+      "a": "Argentina",
+      "sa": 3,
+      "b": "Cape Verde",
+      "sb": 2,
+      "note": "Round of 32 · Argentina won after extra time"
+    },
+    {
+      "a": "Egypt",
+      "sa": 1,
+      "b": "Australia",
+      "sb": 1,
+      "note": "Round of 32 · Egypt won 4-2 on pens"
+    },
+    {
+      "a": "Switzerland",
+      "sa": 2,
+      "b": "Algeria",
+      "sb": 0,
+      "note": "Round of 32"
+    },
+    {
+      "a": "Portugal",
+      "sa": 2,
+      "b": "Croatia",
+      "sb": 1,
+      "note": "Round of 32"
+    },
+    {
+      "a": "Spain",
+      "sa": 3,
+      "b": "Austria",
+      "sb": 0,
+      "note": "Round of 32"
+    },
+    {
+      "a": "USA",
+      "sa": 2,
+      "b": "Bosnia & Herzegovina",
+      "sb": 0,
+      "note": "Round of 32"
+    },
+    {
+      "a": "Belgium",
+      "sa": 3,
+      "b": "Senegal",
+      "sb": 2,
+      "note": "Round of 32 · Belgium won after extra time"
+    },
+    {
+      "a": "England",
+      "sa": 2,
+      "b": "DR Congo",
+      "sb": 1,
+      "note": "Round of 32"
+    },
+    {
+      "a": "Mexico",
+      "sa": 2,
+      "b": "Ecuador",
+      "sb": 0,
+      "note": "Round of 32"
+    },
+    {
+      "a": "France",
+      "sa": 3,
+      "b": "Sweden",
+      "sb": 0,
+      "note": "Round of 32"
+    },
+    {
+      "a": "Ivory Coast",
+      "sa": 1,
+      "b": "Norway",
+      "sb": 2,
+      "note": "Round of 32"
+    },
+    {
+      "a": "Netherlands",
+      "sa": 1,
+      "b": "Morocco",
+      "sb": 1,
+      "note": "Round of 32 · Morocco won 3-2 on pens"
+    },
+    {
+      "a": "Germany",
+      "sa": 1,
+      "b": "Paraguay",
+      "sb": 1,
+      "note": "Round of 32 · Paraguay won 4-3 on pens"
+    },
+    {
+      "a": "Brazil",
+      "sa": 2,
+      "b": "Japan",
+      "sb": 1,
+      "note": "Round of 32"
+    },
+    {
+      "a": "South Africa",
+      "sa": 0,
+      "b": "Canada",
+      "sb": 1,
+      "note": "Round of 32"
+    },
+    {
+      "a": "Argentina",
+      "sa": 2,
+      "b": "Jordan",
+      "sb": 0,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Austria",
+      "sa": 2,
+      "b": "Algeria",
+      "sb": 1,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Colombia",
+      "sa": 1,
+      "b": "Portugal",
+      "sb": 0,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "DR Congo",
+      "sa": 0,
+      "b": "Uzbekistan",
+      "sb": 1,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "England",
+      "sa": 2,
+      "b": "Panama",
+      "sb": 0,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Croatia",
+      "sa": 2,
+      "b": "Ghana",
+      "sb": 1,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Spain",
+      "sa": 1,
+      "b": "Uruguay",
+      "sb": 0,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Cape Verde",
+      "sa": 0,
+      "b": "Saudi Arabia",
+      "sb": 0,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Belgium",
+      "sa": 5,
+      "b": "New Zealand",
+      "sb": 1,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Egypt",
+      "sa": 1,
+      "b": "Iran",
+      "sb": 1,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Norway",
+      "sa": 1,
+      "b": "France",
+      "sb": 4,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Senegal",
+      "sa": 5,
+      "b": "Iraq",
+      "sb": 0,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Netherlands",
+      "sa": 3,
+      "b": "Tunisia",
+      "sb": 1,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Japan",
+      "sa": 1,
+      "b": "Sweden",
+      "sb": 1,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Turkey",
+      "sa": 3,
+      "b": "USA",
+      "sb": 2,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Paraguay",
+      "sa": 0,
+      "b": "Australia",
+      "sb": 0,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Ecuador",
+      "sa": 2,
+      "b": "Germany",
+      "sb": 1,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Ivory Coast",
+      "sa": 2,
+      "b": "Curaçao",
+      "sb": 0,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "South Africa",
+      "sa": 1,
+      "b": "South Korea",
+      "sb": 0,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Mexico",
+      "sa": 3,
+      "b": "Czechia",
+      "sb": 0,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Brazil",
+      "sa": 3,
+      "b": "Scotland",
+      "sb": 0,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Morocco",
+      "sa": 4,
+      "b": "Haiti",
+      "sb": 2,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Switzerland",
+      "sa": 2,
+      "b": "Canada",
+      "sb": 1,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Bosnia & Herzegovina",
+      "sa": 3,
+      "b": "Qatar",
+      "sb": 1,
+      "note": "Matchday 3"
+    },
+    {
+      "a": "Colombia",
+      "sa": 1,
+      "b": "DR Congo",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Croatia",
+      "sa": 1,
+      "b": "Panama",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "England",
+      "sa": 0,
+      "b": "Ghana",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Portugal",
+      "sa": 5,
+      "b": "Uzbekistan",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Algeria",
+      "sa": 2,
+      "b": "Jordan",
+      "sb": 1,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "France",
+      "sa": 3,
+      "b": "Iraq",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Norway",
+      "sa": 3,
+      "b": "Senegal",
+      "sb": 2,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Argentina",
+      "sa": 2,
+      "b": "Austria",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Egypt",
+      "sa": 3,
+      "b": "New Zealand",
+      "sb": 1,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Uruguay",
+      "sa": 2,
+      "b": "Cape Verde",
+      "sb": 2,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Belgium",
+      "sa": 0,
+      "b": "Iran",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Spain",
+      "sa": 4,
+      "b": "Saudi Arabia",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Tunisia",
+      "sa": 0,
+      "b": "Japan",
+      "sb": 4,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Ecuador",
+      "sa": 0,
+      "b": "Curaçao",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Germany",
+      "sa": 2,
+      "b": "Ivory Coast",
+      "sb": 1,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Netherlands",
+      "sa": 5,
+      "b": "Sweden",
+      "sb": 1,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Turkey",
+      "sa": 0,
+      "b": "Paraguay",
+      "sb": 1,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Brazil",
+      "sa": 3,
+      "b": "Haiti",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Scotland",
+      "sa": 0,
+      "b": "Morocco",
+      "sb": 1,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "USA",
+      "sa": 2,
+      "b": "Australia",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Mexico",
+      "sa": 1,
+      "b": "South Korea",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Canada",
+      "sa": 6,
+      "b": "Qatar",
+      "sb": 0,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Switzerland",
+      "sa": 4,
+      "b": "Bosnia & Herzegovina",
+      "sb": 1,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Czechia",
+      "sa": 1,
+      "b": "South Africa",
+      "sb": 1,
+      "note": "Matchday 2"
+    },
+    {
+      "a": "Uzbekistan",
+      "sa": 1,
+      "b": "Colombia",
+      "sb": 3,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "England",
+      "sa": 4,
+      "b": "Croatia",
+      "sb": 2,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Portugal",
+      "sa": 1,
+      "b": "DR Congo",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Ghana",
+      "sa": 1,
+      "b": "Panama",
+      "sb": 0,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Austria",
+      "sa": 3,
+      "b": "Jordan",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Argentina",
+      "sa": 3,
+      "b": "Algeria",
+      "sb": 0,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Iraq",
+      "sa": 1,
+      "b": "Norway",
+      "sb": 4,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "France",
+      "sa": 3,
+      "b": "Senegal",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Iran",
+      "sa": 2,
+      "b": "New Zealand",
+      "sb": 2,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Saudi Arabia",
+      "sa": 1,
+      "b": "Uruguay",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Belgium",
+      "sa": 1,
+      "b": "Egypt",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Spain",
+      "sa": 0,
+      "b": "Cape Verde",
+      "sb": 0,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Sweden",
+      "sa": 5,
+      "b": "Tunisia",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Ivory Coast",
+      "sa": 1,
+      "b": "Ecuador",
+      "sb": 0,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Netherlands",
+      "sa": 2,
+      "b": "Japan",
+      "sb": 2,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Germany",
+      "sa": 7,
+      "b": "Curaçao",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Australia",
+      "sa": 2,
+      "b": "Turkey",
+      "sb": 0,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Haiti",
+      "sa": 0,
+      "b": "Scotland",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Brazil",
+      "sa": 1,
+      "b": "Morocco",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Qatar",
+      "sa": 1,
+      "b": "Switzerland",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "USA",
+      "sa": 4,
+      "b": "Paraguay",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Canada",
+      "sa": 1,
+      "b": "Bosnia & Herzegovina",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "South Korea",
+      "sa": 2,
+      "b": "Czechia",
+      "sb": 1,
+      "note": "Matchday 1"
+    },
+    {
+      "a": "Mexico",
+      "sa": 2,
+      "b": "South Africa",
+      "sb": 0,
+      "note": "Matchday 1 · Opening match"
+    }
   ]
 }
